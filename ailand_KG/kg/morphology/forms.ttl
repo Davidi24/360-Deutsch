@@ -1,0 +1,2104 @@
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix olia: <http://purl.org/olia/olia.owl#> .
+
+<http://ailand.org/Abbildung> ontolex:otherForm <http://ailand.org/Abbildung/form/02df9dfb-5f2c-45c5-941e-e5b4622e96df> .
+<http://ailand.org/Ablauf> ontolex:otherForm <http://ailand.org/Ablauf/form/0cea2fff-8f9e-4cf8-945c-81201c6660c4> .
+<http://ailand.org/Absender> ontolex:otherForm <http://ailand.org/Absender/form/3ba066fc-02ae-4cbc-87d0-5dc3686d80a2> .
+<http://ailand.org/Absturz> ontolex:otherForm <http://ailand.org/Absturz/form/13b90c79-4cdc-4f8c-b473-d0e91304442a> .
+<http://ailand.org/Adresse> ontolex:otherForm <http://ailand.org/Adresse/form/2198764d-2640-46bc-ae9c-429937e92257> .
+<http://ailand.org/Affe> ontolex:otherForm <http://ailand.org/Affe/form/440154ba-31ab-47f4-98b9-81dc9b18f63f> .
+<http://ailand.org/Aggressivit_t> ontolex:otherForm <http://ailand.org/Aggressivit_t/form/1b728971-cfb9-42c3-a6a2-4b84ef1d7e4a> .
+<http://ailand.org/Akte> ontolex:otherForm <http://ailand.org/Akte/form/0a2f6029-12c8-4c1c-981c-02b6fd8e6b6a> .
+<http://ailand.org/Aktie> ontolex:otherForm <http://ailand.org/Aktie/form/17908387-b5a0-4abd-beec-5dcd78aae3c5> .
+<http://ailand.org/Ampel> ontolex:otherForm <http://ailand.org/Ampel/form/2653f2ae-b639-4245-981c-e4ffcacae765> .
+<http://ailand.org/Analyse> ontolex:otherForm <http://ailand.org/Analyse/form/62ae4c1f-5e4f-42f7-b4f9-f6bafa521cc6> .
+<http://ailand.org/Anblick> ontolex:otherForm <http://ailand.org/Anblick/form/b1777717-b205-4b40-b8e3-ed5e3045500b> .
+<http://ailand.org/Angeh_rige> ontolex:otherForm <http://ailand.org/Angeh_rige/form/52a7184d-cfd1-4491-a7c0-6143cbcf8cdd> .
+<http://ailand.org/Angst> ontolex:otherForm <http://ailand.org/Angst/form/12efa2d2-7b35-4286-b3f9-e92097cf19e8> .
+<http://ailand.org/Anpassung> ontolex:otherForm <http://ailand.org/Anpassung/form/3d3ba30c-7543-4752-8e5f-b812b5972ad9> .
+<http://ailand.org/Anruf> ontolex:otherForm <http://ailand.org/Anruf/form/0ce610bf-5f0f-43e0-9a88-213df72ed7fc> .
+<http://ailand.org/Anschlag> ontolex:otherForm <http://ailand.org/Anschlag/form/0ae7bb59-cee7-46f7-ac19-f0795b78b7a5> .
+<http://ailand.org/Anteil> ontolex:otherForm <http://ailand.org/Anteil/form/177a1c01-8739-4c89-91d8-f91826c0b6a7> .
+<http://ailand.org/Anwalt> ontolex:otherForm <http://ailand.org/Anwalt/form/00b3be63-7e11-4dac-bd03-061b59553872> .
+<http://ailand.org/Anweisung> ontolex:otherForm <http://ailand.org/Anweisung/form/3a6795a0-47e7-4ed3-b7d8-ede1b95c5305> .
+<http://ailand.org/Anwendung> ontolex:otherForm <http://ailand.org/Anwendung/form/09a3ebdd-0df8-4b96-8e6c-7a791ff45958> .
+<http://ailand.org/Anzug> ontolex:otherForm <http://ailand.org/Anzug/form/0c316072-075e-4810-b2ea-621b4ecfb8b2> .
+<http://ailand.org/Aprikose> ontolex:otherForm <http://ailand.org/Aprikose/form/cdb38d93-6a56-4d52-ae7f-1020ddaacd5c> .
+<http://ailand.org/Arbeit> ontolex:otherForm <http://ailand.org/Arbeit/form/006cdc04-b6ff-41dd-85d0-288b9914626d> .
+<http://ailand.org/Arbeitgeber> ontolex:otherForm <http://ailand.org/Arbeitgeber/form/2823754d-2c4a-4c70-9a6a-c409d33225ec> .
+<http://ailand.org/Architektur> ontolex:otherForm <http://ailand.org/Architektur/form/13b499c6-62e1-4531-8523-34ef7c52005d> .
+<http://ailand.org/Armee> ontolex:otherForm <http://ailand.org/Armee/form/4d66fc73-ef1c-4837-92f0-389b270d9413> .
+<http://ailand.org/Ast> ontolex:otherForm <http://ailand.org/Ast/form/1822bec5-24b6-435a-9a5f-e7f381b818e4> .
+<http://ailand.org/Aufl_sung> ontolex:otherForm <http://ailand.org/Aufl_sung/form/242ba357-daf6-48cd-859c-1ce003dd7756> .
+<http://ailand.org/Aufregung> ontolex:otherForm <http://ailand.org/Aufregung/form/2006285f-f02f-4662-beea-3be48e8689b1> .
+<http://ailand.org/Aufzug> ontolex:otherForm <http://ailand.org/Aufzug/form/01e8ac96-9479-4696-9726-43b4050a29bb> .
+<http://ailand.org/Ausflug> ontolex:otherForm <http://ailand.org/Ausflug/form/105e6a0c-d389-41ca-b70d-3c4bd2bfeda8> .
+<http://ailand.org/Ausnahme> ontolex:otherForm <http://ailand.org/Ausnahme/form/04c9d112-28b2-46eb-837a-e307c18c841d> .
+<http://ailand.org/Ausstattung> ontolex:otherForm <http://ailand.org/Ausstattung/form/01b6f6ad-076a-452e-bd8a-d1ece2a1a0e8> .
+<http://ailand.org/Auswirkung> ontolex:otherForm <http://ailand.org/Auswirkung/form/2a8acc35-4221-4cfb-a1d6-1998d9960c7a> .
+<http://ailand.org/Auto> ontolex:otherForm <http://ailand.org/Auto/form/102e6905-ac24-4259-89b1-fe28da417b2d> .
+<http://ailand.org/B_rste> ontolex:otherForm <http://ailand.org/B_rste/form/1dd10320-b008-46b8-8dd9-453c8e42b44e> .
+<http://ailand.org/Bad> ontolex:otherForm <http://ailand.org/Bad/form/1a9affcd-ce48-408e-a1f6-59a833167bcb> .
+<http://ailand.org/Basis> ontolex:otherForm <http://ailand.org/Basis/form/172f3281-efe8-4e5c-b0e1-2b32d1cca12a> .
+<http://ailand.org/Bauernhof> ontolex:otherForm <http://ailand.org/Bauernhof/form/57fdce23-c5df-4d8d-a3ee-48ddff559912> .
+<http://ailand.org/Becher> ontolex:otherForm <http://ailand.org/Becher/form/00dcd5bc-33b8-43d1-a699-6c6149124b3c> .
+<http://ailand.org/Bed_rfnis> ontolex:otherForm <http://ailand.org/Bed_rfnis/form/11969068-ad7c-412e-bd5e-f4d011ea8ede> .
+<http://ailand.org/Bedarf> ontolex:otherForm <http://ailand.org/Bedarf/form/1ce87fcf-820e-4a15-a3f9-58b83770c2b1> .
+<http://ailand.org/Beerdigung> ontolex:otherForm <http://ailand.org/Beerdigung/form/1dca3ec5-f814-4af5-9a19-48d2c0fa98ee> .
+<http://ailand.org/Befehl> ontolex:otherForm <http://ailand.org/Befehl/form/03051799-d5b4-4e10-9f83-61abbf2a5a81> .
+<http://ailand.org/Beginn> ontolex:otherForm <http://ailand.org/Beginn/form/05e984c4-abed-4b23-a813-0eac67552e9e> .
+<http://ailand.org/Beleg> ontolex:otherForm <http://ailand.org/Beleg/form/044a9346-7072-4219-939d-685142f9fb05> .
+<http://ailand.org/Bem_hung> ontolex:otherForm <http://ailand.org/Bem_hung/form/0a442d83-7fff-40ad-b9e8-cec08f8eb846> .
+<http://ailand.org/Besch_ftigte> ontolex:otherForm <http://ailand.org/Besch_ftigte/form/014d7291-7156-4c6d-bd6b-79edb0fa9b13> .
+<http://ailand.org/Besch_ftigung> ontolex:otherForm <http://ailand.org/Besch_ftigung/form/25c04a53-b77e-4c5b-8400-b7137c867f12> .
+<http://ailand.org/Beschuldigte> ontolex:otherForm <http://ailand.org/Beschuldigte/form/09aa201f-19f0-44a7-8d13-19131f4f3ee1> .
+<http://ailand.org/Besprechung> ontolex:otherForm <http://ailand.org/Besprechung/form/1450f580-1877-4742-a61e-7723d9c5e268> .
+<http://ailand.org/Betr_ger> ontolex:otherForm <http://ailand.org/Betr_ger/form/039252ff-2df1-4f28-858c-28bd5a08b270> .
+<http://ailand.org/Bewohner> ontolex:otherForm <http://ailand.org/Bewohner/form/4b6fdc66-186e-4e17-b895-4b2cae7d007f> .
+<http://ailand.org/Bewusstsein> ontolex:otherForm <http://ailand.org/Bewusstsein/form/386ecb56-8de1-4673-a158-99858195b4b2> .
+<http://ailand.org/Beziehung> ontolex:otherForm <http://ailand.org/Beziehung/form/2c95d715-17da-45bd-ad03-94f6f04962cf> .
+<http://ailand.org/Blog> ontolex:otherForm <http://ailand.org/Blog/form/0ba3567b-4d75-43e6-bf8c-c01c55ee3947> .
+<http://ailand.org/Blume> ontolex:otherForm <http://ailand.org/Blume/form/0921d99a-e59b-43dc-984f-5d8f46248a29> .
+<http://ailand.org/Brust> ontolex:otherForm <http://ailand.org/Brust/form/240bf45c-84ab-403e-bfc5-7fb13230c79e> .
+<http://ailand.org/Bucht> ontolex:otherForm <http://ailand.org/Bucht/form/1099a2c8-e3c2-49ca-b7fb-3b5c04eeb011> .
+<http://ailand.org/Buffet> ontolex:otherForm <http://ailand.org/Buffet/form/75dd7e12-e1b2-4fe7-907a-066258dc17a1> .
+<http://ailand.org/Burg> ontolex:otherForm <http://ailand.org/Burg/form/1949dfee-b982-4a48-aa7f-e5bebd9107df> .
+<http://ailand.org/Butter> ontolex:otherForm <http://ailand.org/Butter/form/1657b72b-da55-43d6-80ce-a576c920faa4> .
+<http://ailand.org/Cent> ontolex:otherForm <http://ailand.org/Cent/form/07a5135d-ca5d-4c8e-974a-1a20e806ec9d> .
+<http://ailand.org/Charakter> ontolex:otherForm <http://ailand.org/Charakter/form/3714d400-7f66-4dd4-b7c7-200453917516> .
+<http://ailand.org/Club> ontolex:otherForm <http://ailand.org/Club/form/3c109a35-e603-483c-8a6e-ce24dead324c> .
+<http://ailand.org/Couch> ontolex:otherForm <http://ailand.org/Couch/form/009306e9-eac2-4bd7-87cb-f88017767128> .
+<http://ailand.org/Cousine> ontolex:otherForm <http://ailand.org/Cousine/form/2d28c396-57b6-44d5-96c2-0b02e900b95f> .
+<http://ailand.org/Darlehen> ontolex:otherForm <http://ailand.org/Darlehen/form/0a4a3962-d514-4c5e-babf-362b5cb1dcd6> .
+<http://ailand.org/Deb_t> ontolex:otherForm <http://ailand.org/Deb_t/form/0016d6ee-ce26-4a98-b038-b71280d66ee9> .
+<http://ailand.org/Demonstrant> ontolex:otherForm <http://ailand.org/Demonstrant/form/02d65e08-daf0-4b72-98b5-5b76bd34e7f9> .
+<http://ailand.org/Diagnose> ontolex:otherForm <http://ailand.org/Diagnose/form/11bd2b9f-59a5-4bdc-be79-b18708d044b4> .
+<http://ailand.org/Dienst> ontolex:otherForm <http://ailand.org/Dienst/form/2293431b-bec4-4dbe-8194-33ed73be8449> .
+<http://ailand.org/Dienstleistung> ontolex:otherForm <http://ailand.org/Dienstleistung/form/0402c086-22a1-4e09-94f5-d4670dd9baee> .
+<http://ailand.org/Diskussion> ontolex:otherForm <http://ailand.org/Diskussion/form/22c3c387-5ed7-45a4-91c9-d91ad4624a5d> .
+<http://ailand.org/Donnerstag> ontolex:otherForm <http://ailand.org/Donnerstag/form/04faf10e-7fd0-436b-823c-b6830595d8e5> .
+<http://ailand.org/Dreharbeit> ontolex:otherForm <http://ailand.org/Dreharbeit/form/04513b64-cd4e-470e-81f5-c08e0bf24e6d> .
+<http://ailand.org/Druck> ontolex:otherForm <http://ailand.org/Druck/form/03833c2c-0def-410b-be46-9fae11df791d> .
+<http://ailand.org/Dutzend> ontolex:otherForm <http://ailand.org/Dutzend/form/11eeaf4a-dc51-4fa6-97e8-6232e70c92cb> .
+<http://ailand.org/Ehemann> ontolex:otherForm <http://ailand.org/Ehemann/form/0c81e872-3f9b-476c-8c40-85b2815d029c> .
+<http://ailand.org/Eigenschaft> ontolex:otherForm <http://ailand.org/Eigenschaft/form/8288ddbf-5736-44eb-9f0c-6791fd06ac23> .
+<http://ailand.org/Einbruch> ontolex:otherForm <http://ailand.org/Einbruch/form/08ceb193-8339-41a1-a10f-df0e32d96fc4> .
+<http://ailand.org/Einf_hrung> ontolex:otherForm <http://ailand.org/Einf_hrung/form/09c54b16-3855-4124-9f2f-25f45763d03c> .
+<http://ailand.org/Einfahrt> ontolex:otherForm <http://ailand.org/Einfahrt/form/ac0abd35-c321-4690-84bb-9b2edf90c160> .
+<http://ailand.org/Eingriff> ontolex:otherForm <http://ailand.org/Eingriff/form/01d84953-d0be-414f-a555-ed00b33d6bb9> .
+<http://ailand.org/Eltern> ontolex:otherForm <http://ailand.org/Eltern/form/2165bb1c-932a-421b-8595-1e17aa3531cc> .
+<http://ailand.org/Entf_hrung> ontolex:otherForm <http://ailand.org/Entf_hrung/form/5e932d46-9262-4184-94fd-c0ea723401f5> .
+<http://ailand.org/Entscheidung> ontolex:otherForm <http://ailand.org/Entscheidung/form/2a1c3661-77c8-47ba-9acc-6d1930da7839> .
+<http://ailand.org/Erdbeben> ontolex:otherForm <http://ailand.org/Erdbeben/form/06c1fb0c-2d3c-40f6-bb80-8f1a6f300d7c> .
+<http://ailand.org/Erh_hung> ontolex:otherForm <http://ailand.org/Erh_hung/form/00ec10e6-8ad3-49bd-8246-43304268c4ec> .
+<http://ailand.org/Erhaltung> ontolex:otherForm <http://ailand.org/Erhaltung/form/011a25d5-3a79-463d-98b8-894f1390e697> .
+<http://ailand.org/Erinnerung> ontolex:otherForm <http://ailand.org/Erinnerung/form/4e376871-2c7c-4527-8adc-d649b5235a40> .
+<http://ailand.org/Erlebnis> ontolex:otherForm <http://ailand.org/Erlebnis/form/572c2188-0b9e-4658-95fa-2382b628efc1> .
+<http://ailand.org/Eselsbr_cke> ontolex:otherForm <http://ailand.org/Eselsbr_cke/form/25722613-b17c-474f-8351-b1b7afcd7613> .
+<http://ailand.org/Essig> ontolex:otherForm <http://ailand.org/Essig/form/31b9a529-39cf-48ce-89a6-0844534b5a2f> .
+<http://ailand.org/Eule> ontolex:otherForm <http://ailand.org/Eule/form/05c4140f-42fd-4b04-b4da-91546ed896b4> .
+<http://ailand.org/Existenz> ontolex:otherForm <http://ailand.org/Existenz/form/0a839d1d-ae30-4aea-8994-3ee15ee2982f> .
+<http://ailand.org/Fahrkarte> ontolex:otherForm <http://ailand.org/Fahrkarte/form/1e0452be-a055-457a-b968-405fe0d1d9c2> .
+<http://ailand.org/Fahrrad> ontolex:otherForm <http://ailand.org/Fahrrad/form/006015ef-855d-42c8-8862-aa7f2baf45f7> .
+<http://ailand.org/Fahrstuhl> ontolex:otherForm <http://ailand.org/Fahrstuhl/form/10429820-db10-49c2-b2ef-19560d04f35b> .
+<http://ailand.org/Familienname> ontolex:otherForm <http://ailand.org/Familienname/form/47af9344-678e-4809-bbd7-e4974430b82e> .
+<http://ailand.org/Fehler> ontolex:otherForm <http://ailand.org/Fehler/form/28b64bfa-5b11-4341-ade1-b9cef9032338> .
+<http://ailand.org/Feier> ontolex:otherForm <http://ailand.org/Feier/form/09c11a40-265f-438b-9950-601d36fd190f> .
+<http://ailand.org/Festplatte> ontolex:otherForm <http://ailand.org/Festplatte/form/4b34451c-5eff-4c89-b157-f166f67b9140> .
+<http://ailand.org/Filiale> ontolex:otherForm <http://ailand.org/Filiale/form/2e56870c-525f-4ca3-be00-541db4634635> .
+<http://ailand.org/Finale> ontolex:otherForm <http://ailand.org/Finale/form/0aa705b0-42f0-4b1e-a081-36d7bbe7378f> .
+<http://ailand.org/Fl_ssigkeit> ontolex:otherForm <http://ailand.org/Fl_ssigkeit/form/1d612792-63be-4ab9-96a3-8bcd5050716d> .
+<http://ailand.org/Flagge> ontolex:otherForm <http://ailand.org/Flagge/form/18de7dbd-7f48-4b75-a196-6cafbdc55507> .
+<http://ailand.org/Flug> ontolex:otherForm <http://ailand.org/Flug/form/0465dc02-6809-498e-b066-f31a5024eba7> .
+<http://ailand.org/Flugzeug> ontolex:otherForm <http://ailand.org/Flugzeug/form/546d2372-6eb6-4b6d-b051-00d0eab7a512> .
+<http://ailand.org/Folge> ontolex:otherForm <http://ailand.org/Folge/form/171c7c11-86d8-4b89-aaf7-a95e316e064c> .
+<http://ailand.org/Fraktion> ontolex:otherForm <http://ailand.org/Fraktion/form/04315fca-a9c3-4a54-83a8-29720b035c44> .
+<http://ailand.org/Frieden> ontolex:otherForm <http://ailand.org/Frieden/form/0162886a-e3d2-475e-99c2-c3d6796d132b> .
+<http://ailand.org/Friseur> ontolex:otherForm <http://ailand.org/Friseur/form/4b753ac6-7b36-44f0-9581-e5d04ffb8e0c> .
+<http://ailand.org/Frisur> ontolex:otherForm <http://ailand.org/Frisur/form/2a23afb1-4826-451a-bea7-bc50b8a36a9b> .
+<http://ailand.org/Fuchs> ontolex:otherForm <http://ailand.org/Fuchs/form/08691446-4638-4e76-8444-62748bd80f82> .
+<http://ailand.org/Fundsache> ontolex:otherForm <http://ailand.org/Fundsache/form/0ac163d4-9d90-4ea3-906d-5cfe97dd9bee> .
+<http://ailand.org/Gebirge> ontolex:otherForm <http://ailand.org/Gebirge/form/245c723f-96b1-4f58-bc7e-2776d8034547> .
+<http://ailand.org/Ged_chtnis> ontolex:otherForm <http://ailand.org/Ged_chtnis/form/0095e9a9-ac13-41b4-9815-e3bec677914f> .
+<http://ailand.org/Gef__> ontolex:otherForm <http://ailand.org/Gef__/form/2dc569c0-9075-482f-a385-65bca059dd03> .
+<http://ailand.org/Gef_ngnis> ontolex:otherForm <http://ailand.org/Gef_ngnis/form/8ac23962-0640-4467-8b82-9c48488c8ae3> .
+<http://ailand.org/Gefahr> ontolex:otherForm <http://ailand.org/Gefahr/form/0f6411ba-1a99-4291-8b69-defdcb782815> .
+<http://ailand.org/Gegensatz> ontolex:otherForm <http://ailand.org/Gegensatz/form/107cd9b4-7d7d-4a3c-be58-a56e6bc0572c> .
+<http://ailand.org/Gegner> ontolex:otherForm <http://ailand.org/Gegner/form/06724b24-808c-4024-9637-12e3577d1a4b> .
+<http://ailand.org/Geist> ontolex:otherForm <http://ailand.org/Geist/form/1579664d-7c68-4c59-8858-77a6db564234> .
+<http://ailand.org/Geld> ontolex:otherForm <http://ailand.org/Geld/form/21986106-8ac8-46c0-888f-8859426fafe0> .
+<http://ailand.org/Geldautomat> ontolex:otherForm <http://ailand.org/Geldautomat/form/110380a4-c440-44c6-9f4c-6db8c0e600a2> .
+<http://ailand.org/Gelenk> ontolex:otherForm <http://ailand.org/Gelenk/form/1a916492-4de2-4321-8574-6351c17e8d06> .
+<http://ailand.org/Gemeinde> ontolex:otherForm <http://ailand.org/Gemeinde/form/22d36a3d-0f77-4d8f-ae8a-23e86a8c329c> .
+<http://ailand.org/Gemeinderat> ontolex:otherForm <http://ailand.org/Gemeinderat/form/088bfb59-3420-451f-913b-a7eeb9239327> .
+<http://ailand.org/Gen> ontolex:otherForm <http://ailand.org/Gen/form/05a99692-7bac-482b-86be-47e47866ceb4> .
+<http://ailand.org/Geografie> ontolex:otherForm <http://ailand.org/Geografie/form/314f478e-ea2e-467c-80fb-e5cf516c949d> .
+<http://ailand.org/Ger_usch> ontolex:otherForm <http://ailand.org/Ger_usch/form/07832cd0-66ee-4f74-a025-87a606e0df9b> .
+<http://ailand.org/Gerechtigkeit> ontolex:otherForm <http://ailand.org/Gerechtigkeit/form/34fd0588-997c-4b3c-a1fc-16b461291b19> .
+<http://ailand.org/Gesch_ftsf_hrer> ontolex:otherForm <http://ailand.org/Gesch_ftsf_hrer/form/18df820b-ed33-4636-bea1-b7ca84bd6e16> .
+<http://ailand.org/Gesellschafter> ontolex:otherForm <http://ailand.org/Gesellschafter/form/3d1f71d8-6730-415a-9f5e-8f4ccc4ae45c> .
+<http://ailand.org/Getr_nk> ontolex:otherForm <http://ailand.org/Getr_nk/form/1ebcc8b8-12a4-4f2c-9a2a-a9b4dfc7b1a6> .
+<http://ailand.org/Gew_rz> ontolex:otherForm <http://ailand.org/Gew_rz/form/027c1975-332e-4d7f-8683-993401e93cfa> .
+<http://ailand.org/Gewalt> ontolex:otherForm <http://ailand.org/Gewalt/form/18506f0b-e3e5-43d1-90ea-04e9bcf25f45> .
+<http://ailand.org/Gewinn> ontolex:otherForm <http://ailand.org/Gewinn/form/1657f53f-8608-4069-95f5-4812619c6ef7> .
+<http://ailand.org/Gl_ckwunsch> ontolex:otherForm <http://ailand.org/Gl_ckwunsch/form/20521765-5213-4400-a8a6-94f4062ad0d8> .
+<http://ailand.org/Golf> ontolex:otherForm <http://ailand.org/Golf/form/066399d1-4f2b-4446-a0f8-18d168bd0421> .
+<http://ailand.org/Gramm> ontolex:otherForm <http://ailand.org/Gramm/form/149d6f3f-8994-43be-9857-7c777b9e24ee> .
+<http://ailand.org/Grammatik> ontolex:otherForm <http://ailand.org/Grammatik/form/32123f0f-d989-46e5-b0f2-b74a1348308f> .
+<http://ailand.org/Gratulation> ontolex:otherForm <http://ailand.org/Gratulation/form/575b6c87-c645-421e-88cf-b40b152b0fa9> .
+<http://ailand.org/Grund> ontolex:otherForm <http://ailand.org/Grund/form/41656421-5efb-494c-8388-2e055cc21f38> .
+<http://ailand.org/Grundgesetz> ontolex:otherForm <http://ailand.org/Grundgesetz/form/218b8802-f3fa-47a3-a126-07c97a2a0b54> .
+<http://ailand.org/Gutachten> ontolex:otherForm <http://ailand.org/Gutachten/form/0faccf5a-a95c-4d00-8629-83a169ee7ace> .
+<http://ailand.org/H_ndler> ontolex:otherForm <http://ailand.org/H_ndler/form/007849bb-8ac3-4967-ad57-83e3f16533cf> .
+<http://ailand.org/Hai> ontolex:otherForm <http://ailand.org/Hai/form/31436173-ed61-45db-94f1-fc71f8c77923> .
+<http://ailand.org/Haltestelle> ontolex:otherForm <http://ailand.org/Haltestelle/form/0707b2f2-d9d4-4762-accc-cf7eafc97ba2> .
+<http://ailand.org/Handschuh> ontolex:otherForm <http://ailand.org/Handschuh/form/025e3528-4a7c-4782-8d2c-025721403401> .
+<http://ailand.org/Haus> ontolex:otherForm <http://ailand.org/Haus/form/006f9834-6a3f-46af-97df-a26daf4fe392> .
+<http://ailand.org/Hausaufgabe> ontolex:otherForm <http://ailand.org/Hausaufgabe/form/05459df1-43ac-4079-9a44-218379fd8f8b> .
+<http://ailand.org/Hausfrau> ontolex:otherForm <http://ailand.org/Hausfrau/form/108b570d-696c-4888-a2be-75f91a0c96de> .
+<http://ailand.org/Hausmeister> ontolex:otherForm <http://ailand.org/Hausmeister/form/064aae8c-0664-452d-97d6-6e4f13094b49> .
+<http://ailand.org/Heiratsantrag> ontolex:otherForm <http://ailand.org/Heiratsantrag/form/2b193a15-c834-42bc-9785-3b61468652d3> .
+<http://ailand.org/Hintergrund> ontolex:otherForm <http://ailand.org/Hintergrund/form/25d0a4cc-7b43-4a13-aceb-5cc027972c23> .
+<http://ailand.org/Hochhaus> ontolex:otherForm <http://ailand.org/Hochhaus/form/05e5872d-2f54-45b4-ba50-01ed62fa9ea9> .
+<http://ailand.org/Honorar> ontolex:otherForm <http://ailand.org/Honorar/form/43296cbe-f7d6-4ec2-81a1-063ce13c4a44> .
+<http://ailand.org/Huhn> ontolex:otherForm <http://ailand.org/Huhn/form/20575d63-3497-400a-a574-411643405ea4> .
+<http://ailand.org/Humor> ontolex:otherForm <http://ailand.org/Humor/form/0f69bb43-ae2e-4f9b-8709-c37871bc4fce> .
+<http://ailand.org/Imbiss> ontolex:otherForm <http://ailand.org/Imbiss/form/06651932-69cd-4006-ac80-da8885d1bb01> .
+<http://ailand.org/Immunsystem> ontolex:otherForm <http://ailand.org/Immunsystem/form/0abc4990-cca6-436c-b814-8645b9c4acde> .
+<http://ailand.org/Indianer> ontolex:otherForm <http://ailand.org/Indianer/form/0c12776d-a3b3-4795-a991-2c2ac4cf54ba> .
+<http://ailand.org/Inhalt> ontolex:otherForm <http://ailand.org/Inhalt/form/2475b98a-afe8-4b01-a2bb-fd2e2070d1c6> .
+<http://ailand.org/Initiative> ontolex:otherForm <http://ailand.org/Initiative/form/80481a90-84b6-45da-8a92-121425d2cd2b> .
+<http://ailand.org/Innenraum> ontolex:otherForm <http://ailand.org/Innenraum/form/17cd2f1e-5cee-4ee7-bf92-ee528789963c> .
+<http://ailand.org/Insekt> ontolex:otherForm <http://ailand.org/Insekt/form/01f59d23-964e-447e-af64-2290190576c4> .
+<http://ailand.org/Intelligenz> ontolex:otherForm <http://ailand.org/Intelligenz/form/0fbc4bdd-624b-4da7-b021-6197b57d782b> .
+<http://ailand.org/Irrtum> ontolex:otherForm <http://ailand.org/Irrtum/form/325d5fb3-789c-44c0-a153-539a14c09636> .
+<http://ailand.org/Jagd> ontolex:otherForm <http://ailand.org/Jagd/form/0a1ddade-c12b-445c-a92d-82ca35b7443c> .
+<http://ailand.org/Jeans> ontolex:otherForm <http://ailand.org/Jeans/form/03866c59-d616-4632-b334-4eedf0565885> .
+<http://ailand.org/K_rperverletzung> ontolex:otherForm <http://ailand.org/K_rperverletzung/form/4204c2c3-99c8-4151-8cc5-f12370c94c36> .
+<http://ailand.org/Kapit_n> ontolex:otherForm <http://ailand.org/Kapit_n/form/09a212b9-45cc-486d-bff9-3d07175cc5e4> .
+<http://ailand.org/Kaufhaus> ontolex:otherForm <http://ailand.org/Kaufhaus/form/118d6ff7-e679-49ca-be69-2396466f0724> .
+<http://ailand.org/Kino> ontolex:otherForm <http://ailand.org/Kino/form/2faf6988-4d58-4675-ab7e-a8e95a602004> .
+<http://ailand.org/Kiste> ontolex:otherForm <http://ailand.org/Kiste/form/1da55a1e-e1f1-450a-ac23-0f5a2176fc3b> .
+<http://ailand.org/Kleidung> ontolex:otherForm <http://ailand.org/Kleidung/form/00c14bbe-f775-409d-80ba-14b8e9c3df43> .
+<http://ailand.org/Klick> ontolex:otherForm <http://ailand.org/Klick/form/01791d08-511a-433f-96de-a71d18d4620b> .
+<http://ailand.org/Knie> ontolex:otherForm <http://ailand.org/Knie/form/33c918a3-b5cc-4e7b-afa9-b796f411fd8e> .
+<http://ailand.org/Knopf> ontolex:otherForm <http://ailand.org/Knopf/form/0eb1195e-91e4-4706-9068-f631a8692545> .
+<http://ailand.org/Koalition> ontolex:otherForm <http://ailand.org/Koalition/form/51195513-153d-42c0-87ea-3639abf6e509> .
+<http://ailand.org/Kohle> ontolex:otherForm <http://ailand.org/Kohle/form/0b0df1d5-8bd8-474b-9641-fd17fed51d8b> .
+<http://ailand.org/Kommissar> ontolex:otherForm <http://ailand.org/Kommissar/form/38557d48-447f-47d4-9651-08ff752cfd86> .
+<http://ailand.org/Konsument> ontolex:otherForm <http://ailand.org/Konsument/form/017de11c-9b85-45c1-8db5-7f57b458c410> .
+<http://ailand.org/Konto> ontolex:otherForm <http://ailand.org/Konto/form/0ddc99d5-885c-4d21-8dcf-d5a7e2b24ae4> .
+<http://ailand.org/Kopfschmerz> ontolex:otherForm <http://ailand.org/Kopfschmerz/form/306ebf7e-4fb5-4231-8771-babba4d052f7> .
+<http://ailand.org/Korkenzieher> ontolex:otherForm <http://ailand.org/Korkenzieher/form/0d86ff4d-cca5-462c-9a9c-a3e897e9e59c> .
+<http://ailand.org/Korridor> ontolex:otherForm <http://ailand.org/Korridor/form/00578290-e3be-40b8-8d07-d389bdd56ab5> .
+<http://ailand.org/Kosten> ontolex:otherForm <http://ailand.org/Kosten/form/650c3752-4013-4144-9000-5424e4b481f4> .
+<http://ailand.org/Kratzer> ontolex:otherForm <http://ailand.org/Kratzer/form/4126e6e9-13ed-41a3-bc5a-7859abc7cea6> .
+<http://ailand.org/Kraut> ontolex:otherForm <http://ailand.org/Kraut/form/0358ca41-af88-43b9-b546-90fe42b4ba2a> .
+<http://ailand.org/Kriminalpolizei> ontolex:otherForm <http://ailand.org/Kriminalpolizei/form/0a52eab2-4be2-4dd9-b8d0-dd2b8aa45ea6> .
+<http://ailand.org/Kritiker> ontolex:otherForm <http://ailand.org/Kritiker/form/4cdb3383-61e0-4907-b821-f6b0f761b10f> .
+<http://ailand.org/Krokodil> ontolex:otherForm <http://ailand.org/Krokodil/form/06af8210-8ee0-4352-ad21-3bb04ad0ad8e> .
+<http://ailand.org/L_nge> ontolex:otherForm <http://ailand.org/L_nge/form/2233cffd-e441-4e7b-8ae5-9e6abec8b05f> .
+<http://ailand.org/Lampe> ontolex:otherForm <http://ailand.org/Lampe/form/044fc3bb-7795-4304-ae50-4c43ad28ff73> .
+<http://ailand.org/Landkreis> ontolex:otherForm <http://ailand.org/Landkreis/form/4929763e-b1c3-46f0-9cc7-0f935e8261f1> .
+<http://ailand.org/Laufwerk> ontolex:otherForm <http://ailand.org/Laufwerk/form/1900f575-ef97-4c85-89dd-1d6c2442de5e> .
+<http://ailand.org/Lavendel> ontolex:otherForm <http://ailand.org/Lavendel/form/0879f053-0820-4feb-b709-b9bf35380839> .
+<http://ailand.org/Legende> ontolex:otherForm <http://ailand.org/Legende/form/265e6449-c6ae-4e93-80e6-f613cf131820> .
+<http://ailand.org/Lehrstelle> ontolex:otherForm <http://ailand.org/Lehrstelle/form/c5bf03d0-af67-4d4e-989d-3357b9349cba> .
+<http://ailand.org/Leidenschaft> ontolex:otherForm <http://ailand.org/Leidenschaft/form/05d976ce-121b-4c3d-b22b-0c91d9348939> .
+<http://ailand.org/Leitung> ontolex:otherForm <http://ailand.org/Leitung/form/28a087db-a26d-4417-8819-3c985cfa977f> .
+<http://ailand.org/Liebling> ontolex:otherForm <http://ailand.org/Liebling/form/0e4e7380-a0db-40b6-84ca-00968f1310c8> .
+<http://ailand.org/Limit> ontolex:otherForm <http://ailand.org/Limit/form/1f46d594-8fb8-4ecd-9b23-d9b4d14edda3> .
+<http://ailand.org/Lohn> ontolex:otherForm <http://ailand.org/Lohn/form/1d5bedb4-c2ba-4fae-9f37-666930260eb7> .
+<http://ailand.org/M_bel> ontolex:otherForm <http://ailand.org/M_bel/form/0fd25889-d092-4aa4-bfa8-adfa887828d7> .
+<http://ailand.org/M_lltonne> ontolex:otherForm <http://ailand.org/M_lltonne/form/0bf02a21-52a5-4150-ae88-99ef1cede6da> .
+<http://ailand.org/Macht> ontolex:otherForm <http://ailand.org/Macht/form/02ba2f95-4e2e-4671-af80-3e589cdbb509> .
+<http://ailand.org/Magazin> ontolex:otherForm <http://ailand.org/Magazin/form/2db7a7b4-1689-4204-bbf3-3fd164f4dab0> .
+<http://ailand.org/Management> ontolex:otherForm <http://ailand.org/Management/form/00f394a2-83cf-49ec-bef8-cef6571d4d30> .
+<http://ailand.org/Medikament> ontolex:otherForm <http://ailand.org/Medikament/form/15a0d7f6-c347-4958-a8e1-488727cd26b6> .
+<http://ailand.org/Mehrheit> ontolex:otherForm <http://ailand.org/Mehrheit/form/01ffd7e5-05d0-4927-acee-dbff269bcf16> .
+<http://ailand.org/Meinung> ontolex:otherForm <http://ailand.org/Meinung/form/06b3c3d9-dd84-4027-beee-9da30df3c1cc> .
+<http://ailand.org/Melone> ontolex:otherForm <http://ailand.org/Melone/form/2b880788-ec44-4ca3-b31e-ae95e94e4702> .
+<http://ailand.org/Men_> ontolex:otherForm <http://ailand.org/Men_/form/0b7f7417-b5f9-4296-b1a6-978e7de97d54> .
+<http://ailand.org/Menge> ontolex:otherForm <http://ailand.org/Menge/form/04a0a5d9-2383-4d9a-9c87-0ae60f95c9cc> .
+<http://ailand.org/Messe> ontolex:otherForm <http://ailand.org/Messe/form/0895a9a6-46f1-431b-b558-36280bed4300> .
+<http://ailand.org/Mitarbeiter> ontolex:otherForm <http://ailand.org/Mitarbeiter/form/0a029054-8135-4dde-99ec-e85f497ec8a0> .
+<http://ailand.org/Mord> ontolex:otherForm <http://ailand.org/Mord/form/138d8377-5a01-4426-b957-a9704f9d2794> .
+<http://ailand.org/Motiv> ontolex:otherForm <http://ailand.org/Motiv/form/07ce6b44-326e-4c8a-8877-8934d21df613> .
+<http://ailand.org/Muttersprache> ontolex:otherForm <http://ailand.org/Muttersprache/form/0809d9c4-7897-495e-bc9b-5c5dee503af5> .
+<http://ailand.org/Nachfolger> ontolex:otherForm <http://ailand.org/Nachfolger/form/1ff98de3-3b7e-4337-806b-c60b84653356> .
+<http://ailand.org/Nachteil> ontolex:otherForm <http://ailand.org/Nachteil/form/051d11e7-1167-4062-be93-e82b111758a1> .
+<http://ailand.org/Nahrungsmittel> ontolex:otherForm <http://ailand.org/Nahrungsmittel/form/147ef3b2-7c7e-4bdf-b446-69561c6266dd> .
+<http://ailand.org/Nein> ontolex:otherForm <http://ailand.org/Nein/form/0c68b53e-864f-4352-a6c0-f062d80d0a97> .
+<http://ailand.org/Niederschlag> ontolex:otherForm <http://ailand.org/Niederschlag/form/0b9862e6-da9f-41ec-8676-c8bc65072c3a> .
+<http://ailand.org/Nutzen> ontolex:otherForm <http://ailand.org/Nutzen/form/f2ea24df-1510-47a2-bc55-85367b2763c2> .
+<http://ailand.org/Oberfl_che> ontolex:otherForm <http://ailand.org/Oberfl_che/form/2c0c57ff-6c86-4a9a-ae93-e086c958c6df> .
+<http://ailand.org/Olive> ontolex:otherForm <http://ailand.org/Olive/form/10f16187-7f8c-4f38-9e67-467670f4ac41> .
+<http://ailand.org/Oma> ontolex:otherForm <http://ailand.org/Oma/form/3cfaaaf7-90d2-4720-abba-dc1bf31f198a> .
+<http://ailand.org/Organismus> ontolex:otherForm <http://ailand.org/Organismus/form/03b3145e-a231-4199-87a6-62f7019abf8c> .
+<http://ailand.org/Packung> ontolex:otherForm <http://ailand.org/Packung/form/06d389f7-d8e1-4712-bb2d-bae5857eeabe> .
+<http://ailand.org/Park> ontolex:otherForm <http://ailand.org/Park/form/2f8027da-a8a3-415d-912c-2cb716385dcc> .
+<http://ailand.org/Parlament> ontolex:otherForm <http://ailand.org/Parlament/form/12e370a8-91e6-444a-9729-f615713d1af9> .
+<http://ailand.org/Philosoph> ontolex:otherForm <http://ailand.org/Philosoph/form/1d05c92e-d635-4141-8b69-9999aa7c6194> .
+<http://ailand.org/Pizza> ontolex:otherForm <http://ailand.org/Pizza/form/08a1d4fa-10a4-4a09-bc72-dd9d86324469> .
+<http://ailand.org/Portr_t> ontolex:otherForm <http://ailand.org/Portr_t/form/05edfaea-f869-4adf-8490-e4f1d32be7f6> .
+<http://ailand.org/Position> ontolex:otherForm <http://ailand.org/Position/form/1ef136b7-e2c3-4b97-925c-56c6295e072c> .
+<http://ailand.org/Posten> ontolex:otherForm <http://ailand.org/Posten/form/11cd9916-f0f1-43af-819f-9c6526e4f281> .
+<http://ailand.org/Praxis> ontolex:otherForm <http://ailand.org/Praxis/form/1e1af393-a29b-450d-bad6-87b42dee18dd> .
+<http://ailand.org/Premiere> ontolex:otherForm <http://ailand.org/Premiere/form/0650d454-173d-415c-863d-6c9fd15625eb> .
+<http://ailand.org/Produkt> ontolex:otherForm <http://ailand.org/Produkt/form/1824a845-91ae-40ef-bf55-a3a60edc804d> .
+<http://ailand.org/Prost> ontolex:otherForm <http://ailand.org/Prost/form/06b698da-2bbb-45d5-b779-b771764c9280> .
+<http://ailand.org/Protest> ontolex:otherForm <http://ailand.org/Protest/form/1fbe4a81-2435-4092-8564-5e1ecbbf13d8> .
+<http://ailand.org/Puppe> ontolex:otherForm <http://ailand.org/Puppe/form/cb872e0b-7dbc-4229-9b9a-d993150f9aab> .
+<http://ailand.org/Quittung> ontolex:otherForm <http://ailand.org/Quittung/form/465d52ea-0ff2-43b2-9770-587a97a714d4> .
+<http://ailand.org/Quote> ontolex:otherForm <http://ailand.org/Quote/form/1cedbb7b-ac21-462e-8dba-0816621df729> .
+<http://ailand.org/R_cksicht> ontolex:otherForm <http://ailand.org/R_cksicht/form/30dd1092-4d9c-4baf-aef8-f11ca877d484> .
+<http://ailand.org/Rakete> ontolex:otherForm <http://ailand.org/Rakete/form/3a93d607-f0b0-4264-b7e2-cdbde1b3b2e7> .
+<http://ailand.org/Rasen> ontolex:otherForm <http://ailand.org/Rasen/form/1f0fc703-03fb-4dca-a3ac-2c3b5c2e285d> .
+<http://ailand.org/Rat> ontolex:otherForm <http://ailand.org/Rat/form/0c87021c-dd99-4cdf-9084-7ed8d2975085> .
+<http://ailand.org/Reichweite> ontolex:otherForm <http://ailand.org/Reichweite/form/01952654-5e32-44ec-b1a7-e3f315027e95> .
+<http://ailand.org/Reiseb_ro> ontolex:otherForm <http://ailand.org/Reiseb_ro/form/0a533832-e6f7-4977-b433-5bffcfd21f79> .
+<http://ailand.org/Republik> ontolex:otherForm <http://ailand.org/Republik/form/0dd43bb7-847e-46e2-ab06-cff9a4ef6f89> .
+<http://ailand.org/Rettung> ontolex:otherForm <http://ailand.org/Rettung/form/00d3e159-3104-47f4-b804-8bbbf2c6981d> .
+<http://ailand.org/Rhythmus> ontolex:otherForm <http://ailand.org/Rhythmus/form/a75aba0c-8b79-4d07-9e1d-dfa49d332792> .
+<http://ailand.org/Roman> ontolex:otherForm <http://ailand.org/Roman/form/092115e1-1f51-463f-b195-d4a9c10cd90f> .
+<http://ailand.org/Ruf> ontolex:otherForm <http://ailand.org/Ruf/form/17e5e5e8-f643-4e7b-83b3-9c2100a1d29e> .
+<http://ailand.org/S_Bahn> ontolex:otherForm <http://ailand.org/S_Bahn/form/0d738896-a850-47ca-882c-4bd33e8d9bae> .
+<http://ailand.org/Sache> ontolex:otherForm <http://ailand.org/Sache/form/0b83c1df-b714-40fa-819c-0997e8b2d3d0> .
+<http://ailand.org/Sack> ontolex:otherForm <http://ailand.org/Sack/form/02326836-8a2d-4f7f-af08-496a48bc1b4f> .
+<http://ailand.org/Schachbrett> ontolex:otherForm <http://ailand.org/Schachbrett/form/0b9d3eae-72b9-4122-b3a8-c873ef63cd9b> .
+<http://ailand.org/Schale> ontolex:otherForm <http://ailand.org/Schale/form/0b032e06-a7e3-4485-b6ca-01144ea0cde7> .
+<http://ailand.org/Schallplatte> ontolex:otherForm <http://ailand.org/Schallplatte/form/09759903-446b-4aba-a44a-e7232f197ac0> .
+<http://ailand.org/Schatten> ontolex:otherForm <http://ailand.org/Schatten/form/4a088c3d-f479-4e14-85f2-05517333956d> .
+<http://ailand.org/Schere> ontolex:otherForm <http://ailand.org/Schere/form/0414455f-9a14-444a-a274-692c6b8a16f4> .
+<http://ailand.org/Schicht> ontolex:otherForm <http://ailand.org/Schicht/form/00896998-5bfc-4210-b202-369d9bd3b3fc> .
+<http://ailand.org/Schl_gerei> ontolex:otherForm <http://ailand.org/Schl_gerei/form/059c30ea-0f88-4a9e-ae64-0d922e4a9c56> .
+<http://ailand.org/Schl_ssel> ontolex:otherForm <http://ailand.org/Schl_ssel/form/3f931b4f-dd79-4f20-bea8-207501783b04> .
+<http://ailand.org/Schluss> ontolex:otherForm <http://ailand.org/Schluss/form/0b13e427-79f4-48a6-998e-5cab46c8aba7> .
+<http://ailand.org/Schmetterling> ontolex:otherForm <http://ailand.org/Schmetterling/form/2053e8d5-7d73-40ce-a005-a636f2f9db07> .
+<http://ailand.org/Schnee> ontolex:otherForm <http://ailand.org/Schnee/form/0a168c37-6c1e-4310-9cb8-dff5bef2a280> .
+<http://ailand.org/Schrift> ontolex:otherForm <http://ailand.org/Schrift/form/09528fd1-fdaf-42f6-971a-d394c924ed08> .
+<http://ailand.org/Schweizer> ontolex:otherForm <http://ailand.org/Schweizer/form/07710747-c29c-4c11-b273-2133528f3b81> .
+<http://ailand.org/Sehnsucht> ontolex:otherForm <http://ailand.org/Sehnsucht/form/1ee65791-dbcb-4226-b81b-cdec89721042> .
+<http://ailand.org/Sekunde> ontolex:otherForm <http://ailand.org/Sekunde/form/15cafeeb-a7fd-4646-b918-4a5971d14978> .
+<http://ailand.org/Sieger> ontolex:otherForm <http://ailand.org/Sieger/form/119ce34a-7335-44f2-bb4e-5ea57b13fb41> .
+<http://ailand.org/Sitzung> ontolex:otherForm <http://ailand.org/Sitzung/form/1dd0ba64-823c-4596-89a4-bc272f54c919> .
+<http://ailand.org/Skandal> ontolex:otherForm <http://ailand.org/Skandal/form/0cc12c70-c7a7-481f-aac0-77095f404680> .
+<http://ailand.org/Skorpion> ontolex:otherForm <http://ailand.org/Skorpion/form/062e95e5-bf06-46ea-9892-a81c6fd1d6ce> .
+<http://ailand.org/Sonderpreis> ontolex:otherForm <http://ailand.org/Sonderpreis/form/26f78fcf-a53f-47c1-89b9-5742fe858b19> .
+<http://ailand.org/Spektrum> ontolex:otherForm <http://ailand.org/Spektrum/form/05e93c50-062f-438e-a287-bb39efb4baa0> .
+<http://ailand.org/Spende> ontolex:otherForm <http://ailand.org/Spende/form/0333f7ea-f9c5-4d11-966b-0a296ab2b282> .
+<http://ailand.org/Spieler> ontolex:otherForm <http://ailand.org/Spieler/form/5368fbe2-a7e7-43c7-986e-913606298f77> .
+<http://ailand.org/Sprache> ontolex:otherForm <http://ailand.org/Sprache/form/002cb84d-46ea-4eb8-b7d8-7ac1b2bcc85f> .
+<http://ailand.org/Sprecher> ontolex:otherForm <http://ailand.org/Sprecher/form/1b8c5c93-4904-43e6-938a-43225f02ef5c> .
+<http://ailand.org/Staatsregierung> ontolex:otherForm <http://ailand.org/Staatsregierung/form/09578ff8-e7a1-41c4-b6c8-5b8eb6a938b2> .
+<http://ailand.org/Stadtteil> ontolex:otherForm <http://ailand.org/Stadtteil/form/22625062-6d67-45c1-908f-a3b87cda7a4a> .
+<http://ailand.org/Start> ontolex:otherForm <http://ailand.org/Start/form/09780325-e75f-471f-a42e-7b6cf2a308f9> .
+<http://ailand.org/Status> ontolex:otherForm <http://ailand.org/Status/form/19a40451-244f-4bc4-8a88-1bce11390010> .
+<http://ailand.org/Staub> ontolex:otherForm <http://ailand.org/Staub/form/0064799a-de33-4b36-9001-c7803dcaa082> .
+<http://ailand.org/Staubsauger> ontolex:otherForm <http://ailand.org/Staubsauger/form/4493e436-44f0-470a-b0e1-323c400914fd> .
+<http://ailand.org/Stelle> ontolex:otherForm <http://ailand.org/Stelle/form/34e6ff04-3b1d-4cbe-b60d-fe2fb18ea0c1> .
+<http://ailand.org/Steuererkl_rung> ontolex:otherForm <http://ailand.org/Steuererkl_rung/form/14cbcd9a-969c-4d22-aaaf-881504a9872f> .
+<http://ailand.org/Stewardess> ontolex:otherForm <http://ailand.org/Stewardess/form/0af675ad-fa7f-49ff-9d2d-9bf1eda8ad2b> .
+<http://ailand.org/Stier> ontolex:otherForm <http://ailand.org/Stier/form/0bcfceb9-f4e3-49e2-8cc7-9c479e20cf5d> .
+<http://ailand.org/Stimme> ontolex:otherForm <http://ailand.org/Stimme/form/2ff8b9cf-2a19-432f-a223-1480d12c701b> .
+<http://ailand.org/Stock> ontolex:otherForm <http://ailand.org/Stock/form/299543d6-0cad-42cd-931c-07a7860614bf> .
+<http://ailand.org/Stoff> ontolex:otherForm <http://ailand.org/Stoff/form/07b9267b-ff4a-4eb2-bf63-0892140dfe89> .
+<http://ailand.org/Strahl> ontolex:otherForm <http://ailand.org/Strahl/form/024d57c9-ca22-4f88-8747-47dfcc267a99> .
+<http://ailand.org/Streber> ontolex:otherForm <http://ailand.org/Streber/form/261099ab-5003-417e-b164-89860bd63f8d> .
+<http://ailand.org/Streich> ontolex:otherForm <http://ailand.org/Streich/form/0a5a13b4-8966-4c7b-8000-e9c554403f7c> .
+<http://ailand.org/Streit> ontolex:otherForm <http://ailand.org/Streit/form/1ae40b2a-fd38-42a1-843e-ddd1f7165086> .
+<http://ailand.org/Student> ontolex:otherForm <http://ailand.org/Student/form/06cbc8e7-27a7-4bcd-8565-d45bae459531> .
+<http://ailand.org/Suche> ontolex:otherForm <http://ailand.org/Suche/form/25521c4a-fa89-4057-824b-f3bb93b1e0d6> .
+<http://ailand.org/Sucht> ontolex:otherForm <http://ailand.org/Sucht/form/2f4b270c-ccbf-444f-89b4-c774d6e5fb32> .
+<http://ailand.org/Tablette> ontolex:otherForm <http://ailand.org/Tablette/form/3134ee0d-5d7a-469c-a7d6-9b71c1de2ab2> .
+<http://ailand.org/Tag> ontolex:otherForm <http://ailand.org/Tag/form/019c396d-3243-49b2-9c7e-36c63738021d> .
+<http://ailand.org/Tagesordnung> ontolex:otherForm <http://ailand.org/Tagesordnung/form/1debcacb-3b48-482b-bbbd-5cfeca77f86e> .
+<http://ailand.org/Tank> ontolex:otherForm <http://ailand.org/Tank/form/128a9bfb-9c27-458c-a2f9-6d11a4e59ffb> .
+<http://ailand.org/Tanz> ontolex:otherForm <http://ailand.org/Tanz/form/33e3a9ce-a356-4b66-aa80-17ca7673f281> .
+<http://ailand.org/Teilzeit> ontolex:otherForm <http://ailand.org/Teilzeit/form/280f3828-77c4-4eb5-a040-9475612336da> .
+<http://ailand.org/Teufel> ontolex:otherForm <http://ailand.org/Teufel/form/02f37996-a9de-4689-b4d6-20d9e647ac35> .
+<http://ailand.org/Theorie> ontolex:otherForm <http://ailand.org/Theorie/form/196bbe35-b8dc-48b8-abcd-c96ec93a472a> .
+<http://ailand.org/Tipp> ontolex:otherForm <http://ailand.org/Tipp/form/16e10519-1e7c-4888-9d7c-0e0cebd9b2a6> .
+<http://ailand.org/Titel> ontolex:otherForm <http://ailand.org/Titel/form/2e17ee1b-4ab8-47b1-ba7a-f1727cfde37e> .
+<http://ailand.org/Top> ontolex:otherForm <http://ailand.org/Top/form/068d4130-9ce2-4435-a080-d75e5f3ee1d3> .
+<http://ailand.org/Tr_ne> ontolex:otherForm <http://ailand.org/Tr_ne/form/584a8175-16a1-45eb-910f-f146e79b1b0d> .
+<http://ailand.org/Training> ontolex:otherForm <http://ailand.org/Training/form/102cddfa-1271-49d5-b427-0435a93a64de> .
+<http://ailand.org/Turnier> ontolex:otherForm <http://ailand.org/Turnier/form/0dbc590a-9bda-4e29-b6a5-f114c778862f> .
+<http://ailand.org/Uhr> ontolex:otherForm <http://ailand.org/Uhr/form/73375766-9a5f-4c7c-ad80-f8ccd8adf22d> .
+<http://ailand.org/Umgang> ontolex:otherForm <http://ailand.org/Umgang/form/041828b9-859d-4e72-a78c-e79c44f7df91> .
+<http://ailand.org/Umsetzung> ontolex:otherForm <http://ailand.org/Umsetzung/form/09dc1853-3018-4625-8c15-a90014684fca> .
+<http://ailand.org/Umtausch> ontolex:otherForm <http://ailand.org/Umtausch/form/0703df8b-691b-47c5-ae3b-43512eaa69ee> .
+<http://ailand.org/Union> ontolex:otherForm <http://ailand.org/Union/form/310dbb5d-4adf-4f78-9f8a-6ffd1a15a1e2> .
+<http://ailand.org/Universit_t> ontolex:otherForm <http://ailand.org/Universit_t/form/7d2986e4-406b-4749-baaf-a9e1e6e37c6c> .
+<http://ailand.org/Unsicherheit> ontolex:otherForm <http://ailand.org/Unsicherheit/form/0f97d26c-39bb-4f07-b632-6a40df942d7d> .
+<http://ailand.org/Unterkunft> ontolex:otherForm <http://ailand.org/Unterkunft/form/3cc29835-e193-4fd0-9737-6cfca8bb9083> .
+<http://ailand.org/Unterst_tzung> ontolex:otherForm <http://ailand.org/Unterst_tzung/form/00f7c147-a8a5-4e20-9df0-cfa27c546f46> .
+<http://ailand.org/Verbreitung> ontolex:otherForm <http://ailand.org/Verbreitung/form/3709f446-cd21-4bc3-94d5-44be6d4c14d4> .
+<http://ailand.org/Verdacht> ontolex:otherForm <http://ailand.org/Verdacht/form/0a3e90cf-352f-42f1-9480-76e7ae62d7f0> .
+<http://ailand.org/Verein> ontolex:otherForm <http://ailand.org/Verein/form/17dd39bd-06c9-4981-b570-2dcc7c3f2f1f> .
+<http://ailand.org/Verfahren> ontolex:otherForm <http://ailand.org/Verfahren/form/3cdd19be-8b6e-4da3-a5c8-1d4d1f543c73> .
+<http://ailand.org/Verkehr> ontolex:otherForm <http://ailand.org/Verkehr/form/1230c29d-9c76-494f-85bb-86bd938a8d36> .
+<http://ailand.org/Verlauf> ontolex:otherForm <http://ailand.org/Verlauf/form/0c338dcb-9664-432d-a365-42385cb8c6dc> .
+<http://ailand.org/Vermieterin> ontolex:otherForm <http://ailand.org/Vermieterin/form/3370ea29-ca31-412a-be95-ec57d1d28a33> .
+<http://ailand.org/Verpackung> ontolex:otherForm <http://ailand.org/Verpackung/form/2bf03953-6fa1-44b3-aae8-38b4f54c6376> .
+<http://ailand.org/Versammlung> ontolex:otherForm <http://ailand.org/Versammlung/form/29e17a40-0881-44a1-8a0b-df00282bc28d> .
+<http://ailand.org/Verschwendung> ontolex:otherForm <http://ailand.org/Verschwendung/form/0b262c92-31d9-42e8-ad3c-90ad1f3a091f> .
+<http://ailand.org/Versehen> ontolex:otherForm <http://ailand.org/Versehen/form/12dae37c-2f14-4a26-b071-033709c1490d> .
+<http://ailand.org/Verwandte> ontolex:otherForm <http://ailand.org/Verwandte/form/06d490a5-e66e-49ed-84af-e272dde51cd4> .
+<http://ailand.org/Verwendung> ontolex:otherForm <http://ailand.org/Verwendung/form/3266f4b3-6faf-4c98-ae87-53770a5c59dc> .
+<http://ailand.org/Vordergrund> ontolex:otherForm <http://ailand.org/Vordergrund/form/21540da2-991f-4dab-9785-2abb0dd717a6> .
+<http://ailand.org/Vorg_nger> ontolex:otherForm <http://ailand.org/Vorg_nger/form/307d6802-258e-4a91-aa6f-12a057b184a4> .
+<http://ailand.org/Vorteil> ontolex:otherForm <http://ailand.org/Vorteil/form/09450f0e-2f11-4e90-a3e5-3b42e66eb302> .
+<http://ailand.org/Vortrag> ontolex:otherForm <http://ailand.org/Vortrag/form/13b25d47-ad94-41c7-8f26-0a0cf7f5d2bc> .
+<http://ailand.org/W_rde> ontolex:otherForm <http://ailand.org/W_rde/form/17c49e67-dd8f-4c29-b2a1-705f1a0060de> .
+<http://ailand.org/W_rterbuch> ontolex:otherForm <http://ailand.org/W_rterbuch/form/3cc983a5-be1d-466f-b1f5-7feedb23c16f> .
+<http://ailand.org/Wahrnehmung> ontolex:otherForm <http://ailand.org/Wahrnehmung/form/490dca52-cf7e-4aba-91d5-19595dc95144> .
+<http://ailand.org/Warnung> ontolex:otherForm <http://ailand.org/Warnung/form/265ce10f-b908-4588-a7c7-112a74ebe49a> .
+<http://ailand.org/Wassermelone> ontolex:otherForm <http://ailand.org/Wassermelone/form/3a44233e-67f1-4dc6-9873-6e714f41e89d> .
+<http://ailand.org/Weise> ontolex:otherForm <http://ailand.org/Weise/form/0023d589-18ec-420d-881f-286d74886f62> .
+<http://ailand.org/Werktag> ontolex:otherForm <http://ailand.org/Werktag/form/5aa9116e-1304-4451-94e2-18bdc7573626> .
+<http://ailand.org/Widerstand> ontolex:otherForm <http://ailand.org/Widerstand/form/381b1962-4ce5-4bfa-974f-d47161d25c02> .
+<http://ailand.org/Wissenschaft> ontolex:otherForm <http://ailand.org/Wissenschaft/form/0428aa23-ff26-4afd-a42b-9b90bf9a5e95> .
+<http://ailand.org/Woche> ontolex:otherForm <http://ailand.org/Woche/form/4299bddf-c9d8-4d2f-9e1a-c39fe24bb5a9> .
+<http://ailand.org/Wohnort> ontolex:otherForm <http://ailand.org/Wohnort/form/11768dd1-3c24-4847-9165-abf966f524ce> .
+<http://ailand.org/Wolf> ontolex:otherForm <http://ailand.org/Wolf/form/00b98594-e356-49dd-a990-108091ce89d9> .
+<http://ailand.org/Wunde> ontolex:otherForm <http://ailand.org/Wunde/form/622fb94c-56e3-446f-875c-b3464bcf86ab> .
+<http://ailand.org/Wurst> ontolex:otherForm <http://ailand.org/Wurst/form/1bab2c23-dc6e-4a2b-86ff-6b5541b2e687> .
+<http://ailand.org/Zahlung> ontolex:otherForm <http://ailand.org/Zahlung/form/27478aa2-b09e-40fe-9ee7-000347ddb0b6> .
+<http://ailand.org/Zeile> ontolex:otherForm <http://ailand.org/Zeile/form/20a602c7-5fec-4b84-a9d0-39835f070b31> .
+<http://ailand.org/Zeitschrift> ontolex:otherForm <http://ailand.org/Zeitschrift/form/012621cd-2261-45c3-9247-997185b1f30d> .
+<http://ailand.org/Zimmerschl_ssel> ontolex:otherForm <http://ailand.org/Zimmerschl_ssel/form/4d171e85-94d5-458f-84d2-e8c7254ec5ad> .
+<http://ailand.org/Zuversicht> ontolex:otherForm <http://ailand.org/Zuversicht/form/072a8133-61ac-4109-8e01-d4cf368bb914> .
+<http://ailand.org/Zweitsprache> ontolex:otherForm <http://ailand.org/Zweitsprache/form/07fd5f50-edff-4f2b-b655-ac062b09f15b> .
+<http://ailand.org/Zwilling> ontolex:otherForm <http://ailand.org/Zwilling/form/06ba30ac-381d-4675-88ab-532dc258b609> .
+<http://ailand.org/Zyklus> ontolex:otherForm <http://ailand.org/Zyklus/form/12f5bb19-dc10-4d26-83de-28b8ea4882a7> .
+<http://ailand.org/_bel> ontolex:otherForm <http://ailand.org/_bel/form/f0d6ab86-42a1-43c6-91ef-2e0eb558f2e8> .
+<http://ailand.org/_berschrift> ontolex:otherForm <http://ailand.org/_berschrift/form/01f7bdc9-78ac-4be4-8699-c29df051b580> .
+<http://ailand.org/_nderung> ontolex:otherForm <http://ailand.org/_nderung/form/0e7338f1-3ff8-45dd-b5a8-8049eee29180> .
+<http://ailand.org/absehbar> ontolex:otherForm <http://ailand.org/absehbar/form/5e9a2991-e090-472d-bfe3-36a0453d2837> .
+<http://ailand.org/angeblich> ontolex:otherForm <http://ailand.org/angeblich/form/0208fa6b-1b5f-4ff0-bdad-1dfa91ba5391> .
+<http://ailand.org/auff_llig> ontolex:otherForm <http://ailand.org/auff_llig/form/00a18bd0-29a9-4d26-abd7-1f717af78508> .
+<http://ailand.org/aufrecht> ontolex:otherForm <http://ailand.org/aufrecht/form/eb4c7439-978c-452d-823b-cab77e104dff> .
+<http://ailand.org/bayrisch> ontolex:otherForm <http://ailand.org/bayrisch/form/b9b11c3c-c4be-4ea7-8215-9411313a5f60> .
+<http://ailand.org/chemisch> ontolex:otherForm <http://ailand.org/chemisch/form/056d491b-9fa3-41b4-b80a-83e007769a00> .
+<http://ailand.org/chronisch> ontolex:otherForm <http://ailand.org/chronisch/form/23f17b5e-489b-486f-8e44-b7b67ce22fc7> .
+<http://ailand.org/dubios> ontolex:otherForm <http://ailand.org/dubios/form/0099277e-620c-420f-82b1-b8805e89af2b> .
+<http://ailand.org/dynamisch> ontolex:otherForm <http://ailand.org/dynamisch/form/ded25819-9877-46c0-bc82-16909702eb94> .
+<http://ailand.org/eben> ontolex:otherForm <http://ailand.org/eben/form/71e1ff01-0682-4f2f-9ad5-a3b42bb24547> .
+<http://ailand.org/effizient> ontolex:otherForm <http://ailand.org/effizient/form/02d94013-c370-4412-9b8c-46c151400530> .
+<http://ailand.org/einfach> ontolex:otherForm <http://ailand.org/einfach/form/bf08cf29-42c4-464d-8682-0dbaa2a3b9d8> .
+<http://ailand.org/eiskalt> ontolex:otherForm <http://ailand.org/eiskalt/form/01b03f45-a6e8-4176-95f2-942ed901d8fd> .
+<http://ailand.org/erfolglos> ontolex:otherForm <http://ailand.org/erfolglos/form/eacf22af-20fa-46ce-9a94-c88f2cdb1f9d> .
+<http://ailand.org/ersichtlich> ontolex:otherForm <http://ailand.org/ersichtlich/form/74012440-22a1-4239-96cb-fd24e34dc76f> .
+<http://ailand.org/f_llig> ontolex:otherForm <http://ailand.org/f_llig/form/0014b630-5fef-4c00-97d5-003526f4727d> .
+<http://ailand.org/fabelhaft> ontolex:otherForm <http://ailand.org/fabelhaft/form/48417c02-510c-42cc-a756-59b9b5642b96> .
+<http://ailand.org/fl_ssig> ontolex:otherForm <http://ailand.org/fl_ssig/form/0006f2e4-ae56-448f-8ef0-e676061807fd> .
+<http://ailand.org/formell> ontolex:otherForm <http://ailand.org/formell/form/03115d3c-2a99-4c28-bbc7-7a43890793d7> .
+<http://ailand.org/franz_sisch> ontolex:otherForm <http://ailand.org/franz_sisch/form/002a67cc-6260-4f3a-a15d-0c572d6ed43c> .
+<http://ailand.org/gebr_uchlich> ontolex:otherForm <http://ailand.org/gebr_uchlich/form/025b9fd8-a83d-4957-ba7c-e8eb078045de> .
+<http://ailand.org/geografisch> ontolex:otherForm <http://ailand.org/geografisch/form/02febce0-b80e-4bfb-80ba-5722f38ffae5> .
+<http://ailand.org/gerade> ontolex:otherForm <http://ailand.org/gerade/form/01b4538f-586e-4350-ba74-3e1a04ff732c> .
+<http://ailand.org/giftig> ontolex:otherForm <http://ailand.org/giftig/form/1f564069-bd57-4b72-926c-c017528ed596> .
+<http://ailand.org/global> ontolex:otherForm <http://ailand.org/global/form/4fd71edb-17fb-4962-97e8-86eaff64c099> .
+<http://ailand.org/hochwertig> ontolex:otherForm <http://ailand.org/hochwertig/form/00aaab44-dec5-4742-8fb9-9355129d4a7e> .
+<http://ailand.org/imposant> ontolex:otherForm <http://ailand.org/imposant/form/01084b22-d571-4d6e-ae60-8bbede898288> .
+<http://ailand.org/klassisch> ontolex:otherForm <http://ailand.org/klassisch/form/017e89ea-adc2-4ea1-9a3b-6010869768e4> .
+<http://ailand.org/kommunikativ> ontolex:otherForm <http://ailand.org/kommunikativ/form/451f62b3-af8e-44cf-b7de-4715b8b4d611> .
+<http://ailand.org/konstant> ontolex:otherForm <http://ailand.org/konstant/form/000cee08-da4b-48f8-8e63-240aaba70d2b> .
+<http://ailand.org/lautstark> ontolex:otherForm <http://ailand.org/lautstark/form/f5bf663d-188e-4e04-b2a2-18957073bb99> .
+<http://ailand.org/materiell> ontolex:otherForm <http://ailand.org/materiell/form/0003c412-d322-4d01-a0ff-2a7080cfba94> .
+<http://ailand.org/nahe> ontolex:otherForm <http://ailand.org/nahe/form/0010adb3-edbc-4cc4-8270-597dd690f132> .
+<http://ailand.org/nat_rlich> ontolex:otherForm <http://ailand.org/nat_rlich/form/075a8357-c824-4dd7-b0d3-1f5bfb833956> .
+<http://ailand.org/offensichtlich> ontolex:otherForm <http://ailand.org/offensichtlich/form/012d3680-b22a-4166-b2da-a01d78c7f316> .
+<http://ailand.org/p_dagogisch> ontolex:otherForm <http://ailand.org/p_dagogisch/form/04ced479-8f5d-4973-88f0-7930da1fe831> .
+<http://ailand.org/parat> ontolex:otherForm <http://ailand.org/parat/form/09f74b93-11d8-4e63-9a20-f5622ff38af6> .
+<http://ailand.org/professionell> ontolex:otherForm <http://ailand.org/professionell/form/87b250a4-e2fb-42dc-84a0-9ddf8bd38957> .
+<http://ailand.org/sch_chtern> ontolex:otherForm <http://ailand.org/sch_chtern/form/00d03f5d-b2ec-47b2-bd77-9e8c1c0b2343> .
+<http://ailand.org/skeptisch> ontolex:otherForm <http://ailand.org/skeptisch/form/00902121-06f0-4279-b89b-f2abbd664b48> .
+<http://ailand.org/steuerlich> ontolex:otherForm <http://ailand.org/steuerlich/form/0164606f-d50a-48cc-af12-af59f5edbb34> .
+<http://ailand.org/strategisch> ontolex:otherForm <http://ailand.org/strategisch/form/7bec6da8-d40d-44e1-a414-23841878f287> .
+<http://ailand.org/subjektiv> ontolex:otherForm <http://ailand.org/subjektiv/form/b4970371-b8d5-468d-b8a6-2e30b55e877a> .
+<http://ailand.org/ungl_cklich> ontolex:otherForm <http://ailand.org/ungl_cklich/form/001e5409-04ff-4fe9-9939-b2e771dc4600> .
+<http://ailand.org/vertraglich> ontolex:otherForm <http://ailand.org/vertraglich/form/02178c8b-9c3e-40e9-9d96-59f60b879d43> .
+<http://ailand.org/zweite> ontolex:otherForm <http://ailand.org/zweite/form/02079074-93a7-47a4-8958-c723ddc78ba6> .
+
+<http://ailand.org/absehbar/form/5e9a2991-e090-472d-bfe3-36a0453d2837> ontolex:writtenRep "absehbareren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/angeblich/form/0208fa6b-1b5f-4ff0-bdad-1dfa91ba5391> ontolex:writtenRep "angebliche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/auff_llig/form/00a18bd0-29a9-4d26-abd7-1f717af78508> ontolex:writtenRep "auffälligen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/aufrecht/form/eb4c7439-978c-452d-823b-cab77e104dff> ontolex:writtenRep "aufrechte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/bayrisch/form/b9b11c3c-c4be-4ea7-8215-9411313a5f60> ontolex:writtenRep "bayrischere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/chemisch/form/056d491b-9fa3-41b4-b80a-83e007769a00> ontolex:writtenRep "chemische"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/chronisch/form/23f17b5e-489b-486f-8e44-b7b67ce22fc7> ontolex:writtenRep "chronischste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/dubios/form/0099277e-620c-420f-82b1-b8805e89af2b> ontolex:writtenRep "dubiosere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/dynamisch/form/ded25819-9877-46c0-bc82-16909702eb94> ontolex:writtenRep "dynamischen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/eben/form/71e1ff01-0682-4f2f-9ad5-a3b42bb24547> ontolex:writtenRep "ebeneren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/effizient/form/02d94013-c370-4412-9b8c-46c151400530> ontolex:writtenRep "effizientesten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/eiskalt/form/01b03f45-a6e8-4176-95f2-942ed901d8fd> ontolex:writtenRep "eiskalten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/erfolglos/form/eacf22af-20fa-46ce-9a94-c88f2cdb1f9d> ontolex:writtenRep "erfolglosesten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/ersichtlich/form/74012440-22a1-4239-96cb-fd24e34dc76f> ontolex:writtenRep "ersichtlicheren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/fabelhaft/form/48417c02-510c-42cc-a756-59b9b5642b96> ontolex:writtenRep "fabelhafteren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/fl_ssig/form/0006f2e4-ae56-448f-8ef0-e676061807fd> ontolex:writtenRep "flüssigen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/formell/form/03115d3c-2a99-4c28-bbc7-7a43890793d7> ontolex:writtenRep "formellste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/franz_sisch/form/002a67cc-6260-4f3a-a15d-0c572d6ed43c> ontolex:writtenRep "französischen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/f_llig/form/0014b630-5fef-4c00-97d5-003526f4727d> ontolex:writtenRep "fülligeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/gebr_uchlich/form/025b9fd8-a83d-4957-ba7c-e8eb078045de> ontolex:writtenRep "gebräuchlichsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/giftig/form/1f564069-bd57-4b72-926c-c017528ed596> ontolex:writtenRep "giftigeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/global/form/4fd71edb-17fb-4962-97e8-86eaff64c099> ontolex:writtenRep "globalste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/hochwertig/form/00aaab44-dec5-4742-8fb9-9355129d4a7e> ontolex:writtenRep "hochwertigeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/imposant/form/01084b22-d571-4d6e-ae60-8bbede898288> ontolex:writtenRep "imposantere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/klassisch/form/017e89ea-adc2-4ea1-9a3b-6010869768e4> ontolex:writtenRep "klassischsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/kommunikativ/form/451f62b3-af8e-44cf-b7de-4715b8b4d611> ontolex:writtenRep "kommunikativsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/konstant/form/000cee08-da4b-48f8-8e63-240aaba70d2b> ontolex:writtenRep "konstantere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/lautstark/form/f5bf663d-188e-4e04-b2a2-18957073bb99> ontolex:writtenRep "lautstärksten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/materiell/form/0003c412-d322-4d01-a0ff-2a7080cfba94> ontolex:writtenRep "materielleren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/offensichtlich/form/012d3680-b22a-4166-b2da-a01d78c7f316> ontolex:writtenRep "offensichtlichen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/p_dagogisch/form/04ced479-8f5d-4973-88f0-7930da1fe831> ontolex:writtenRep "pädagogischeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/parat/form/09f74b93-11d8-4e63-9a20-f5622ff38af6> ontolex:writtenRep "parate"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/professionell/form/87b250a4-e2fb-42dc-84a0-9ddf8bd38957> ontolex:writtenRep "professionellen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/sch_chtern/form/00d03f5d-b2ec-47b2-bd77-9e8c1c0b2343> ontolex:writtenRep "schüchternsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schweizer/form/07710747-c29c-4c11-b273-2133528f3b81> ontolex:writtenRep "Schweizers"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/skeptisch/form/00902121-06f0-4279-b89b-f2abbd664b48> ontolex:writtenRep "skeptischeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/steuerlich/form/0164606f-d50a-48cc-af12-af59f5edbb34> ontolex:writtenRep "steuerlichen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/strategisch/form/7bec6da8-d40d-44e1-a414-23841878f287> ontolex:writtenRep "strategischeren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/subjektiv/form/b4970371-b8d5-468d-b8a6-2e30b55e877a> ontolex:writtenRep "subjektivsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/_bel/form/f0d6ab86-42a1-43c6-91ef-2e0eb558f2e8> ontolex:writtenRep "üblen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/ungl_cklich/form/001e5409-04ff-4fe9-9939-b2e771dc4600> ontolex:writtenRep "unglückliche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/vertraglich/form/02178c8b-9c3e-40e9-9d96-59f60b879d43> ontolex:writtenRep "vertraglichen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/einfach/form/bf08cf29-42c4-464d-8682-0dbaa2a3b9d8> ontolex:writtenRep "einfachsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/gerade/form/01b4538f-586e-4350-ba74-3e1a04ff732c> ontolex:writtenRep "geraden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/nat_rlich/form/075a8357-c824-4dd7-b0d3-1f5bfb833956> ontolex:writtenRep "natürlichste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Uhr/form/73375766-9a5f-4c7c-ad80-f8ccd8adf22d> ontolex:writtenRep "die Uhren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tag/form/019c396d-3243-49b2-9c7e-36c63738021d> ontolex:writtenRep "die Tags"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Woche/form/4299bddf-c9d8-4d2f-9e1a-c39fe24bb5a9> ontolex:writtenRep "die Wochen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Haus/form/006f9834-6a3f-46af-97df-a26daf4fe392> ontolex:writtenRep "die Häuser"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Arbeit/form/006cdc04-b6ff-41dd-85d0-288b9914626d> ontolex:writtenRep "die Arbeiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Grund/form/41656421-5efb-494c-8388-2e055cc21f38> ontolex:writtenRep "die Gründe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sache/form/0b83c1df-b714-40fa-819c-0997e8b2d3d0> ontolex:writtenRep "die Sachen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Geld/form/21986106-8ac8-46c0-888f-8859426fafe0> ontolex:writtenRep "die Gelder"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stelle/form/34e6ff04-3b1d-4cbe-b60d-fe2fb18ea0c1> ontolex:writtenRep "die Stellen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Eltern/form/2165bb1c-932a-421b-8595-1e17aa3531cc> ontolex:writtenRep "die Eltern"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sprache/form/002cb84d-46ea-4eb8-b7d8-7ac1b2bcc85f> ontolex:writtenRep "die Sprachen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Folge/form/171c7c11-86d8-4b89-aaf7-a95e316e064c> ontolex:writtenRep "die Folgen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Weise/form/0023d589-18ec-420d-881f-286d74886f62> ontolex:writtenRep "keine Weisen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stimme/form/2ff8b9cf-2a19-432f-a223-1480d12c701b> ontolex:writtenRep "die Stimmen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Angst/form/12efa2d2-7b35-4286-b3f9-e92097cf19e8> ontolex:writtenRep "die Ängste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Auto/form/102e6905-ac24-4259-89b1-fe28da417b2d> ontolex:writtenRep "die Autos"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Beziehung/form/2c95d715-17da-45bd-ad03-94f6f04962cf> ontolex:writtenRep "die Beziehungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Entscheidung/form/2a1c3661-77c8-47ba-9acc-6d1930da7839> ontolex:writtenRep "die Entscheidungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Student/form/06cbc8e7-27a7-4bcd-8565-d45bae459531> ontolex:writtenRep "die Studenten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Produkt/form/1824a845-91ae-40ef-bf55-a3a60edc804d> ontolex:writtenRep "die Produkte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Meinung/form/06b3c3d9-dd84-4027-beee-9da30df3c1cc> ontolex:writtenRep "die Meinungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Mitarbeiter/form/0a029054-8135-4dde-99ec-e85f497ec8a0> ontolex:writtenRep "die Mitarbeiter"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Menge/form/04a0a5d9-2383-4d9a-9c87-0ae60f95c9cc> ontolex:writtenRep "die Mengen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anwendung/form/09a3ebdd-0df8-4b96-8e6c-7a791ff45958> ontolex:writtenRep "die Anwendungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kosten/form/650c3752-4013-4144-9000-5424e4b481f4> ontolex:writtenRep "die Kosten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gefahr/form/0f6411ba-1a99-4291-8b69-defdcb782815> ontolex:writtenRep "die Gefahren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verfahren/form/3cdd19be-8b6e-4da3-a5c8-1d4d1f543c73> ontolex:writtenRep "die Verfahren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stoff/form/07b9267b-ff4a-4eb2-bf63-0892140dfe89> ontolex:writtenRep "die Stoffe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Beginn/form/05e984c4-abed-4b23-a813-0eac67552e9e> ontolex:writtenRep "die Beginne"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Vorteil/form/09450f0e-2f11-4e90-a3e5-3b42e66eb302> ontolex:writtenRep "die Vorteile"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Macht/form/02ba2f95-4e2e-4671-af80-3e589cdbb509> ontolex:writtenRep "die Mächte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Diskussion/form/22c3c387-5ed7-45a4-91c9-d91ad4624a5d> ontolex:writtenRep "die Diskussionen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gegensatz/form/107cd9b4-7d7d-4a3c-be58-a56e6bc0572c> ontolex:writtenRep "die Gegensätze"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Inhalt/form/2475b98a-afe8-4b01-a2bb-fd2e2070d1c6> ontolex:writtenRep "die Inhalte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sekunde/form/15cafeeb-a7fd-4646-b918-4a5971d14978> ontolex:writtenRep "die Sekunden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Erinnerung/form/4e376871-2c7c-4527-8adc-d649b5235a40> ontolex:writtenRep "die Erinnerungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Druck/form/03833c2c-0def-410b-be46-9fae11df791d> ontolex:writtenRep "die Drucke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wissenschaft/form/0428aa23-ff26-4afd-a42b-9b90bf9a5e95> ontolex:writtenRep "die Wissenschaften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Dienst/form/2293431b-bec4-4dbe-8194-33ed73be8449> ontolex:writtenRep "die Dienste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gemeinde/form/22d36a3d-0f77-4d8f-ae8a-23e86a8c329c> ontolex:writtenRep "die Gemeinden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schluss/form/0b13e427-79f4-48a6-998e-5cab46c8aba7> ontolex:writtenRep "die Schlüsse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Position/form/1ef136b7-e2c3-4b97-925c-56c6295e072c> ontolex:writtenRep "die Positionen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Praxis/form/1e1af393-a29b-450d-bad6-87b42dee18dd> ontolex:writtenRep "die Praxen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Roman/form/092115e1-1f51-463f-b195-d4a9c10cd90f> ontolex:writtenRep "die Romane"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Titel/form/2e17ee1b-4ab8-47b1-ba7a-f1727cfde37e> ontolex:writtenRep "die Titel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verein/form/17dd39bd-06c9-4981-b570-2dcc7c3f2f1f> ontolex:writtenRep "die Vereine"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Unterst_tzung/form/00f7c147-a8a5-4e20-9df0-cfa27c546f46> ontolex:writtenRep "die Unterstützungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anteil/form/177a1c01-8739-4c89-91d8-f91826c0b6a7> ontolex:writtenRep "die Anteile"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Besch_ftigte/form/014d7291-7156-4c6d-bd6b-79edb0fa9b13> ontolex:writtenRep "Beschäftigte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fehler/form/28b64bfa-5b11-4341-ade1-b9cef9032338> ontolex:writtenRep "die Fehler"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sprecher/form/1b8c5c93-4904-43e6-938a-43225f02ef5c> ontolex:writtenRep "die Sprecher"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gewinn/form/1657f53f-8608-4069-95f5-4812619c6ef7> ontolex:writtenRep "die Gewinne"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Union/form/310dbb5d-4adf-4f78-9f8a-6ffd1a15a1e2> ontolex:writtenRep "die Unionen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hintergrund/form/25d0a4cc-7b43-4a13-aceb-5cc027972c23> ontolex:writtenRep "die Hintergründe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Donnerstag/form/04faf10e-7fd0-436b-823c-b6830595d8e5> ontolex:writtenRep "Donnerstags"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Geist/form/1579664d-7c68-4c59-8858-77a6db564234> ontolex:writtenRep "die Geister"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Basis/form/172f3281-efe8-4e5c-b0e1-2b32d1cca12a> ontolex:writtenRep "die Basen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/_nderung/form/0e7338f1-3ff8-45dd-b5a8-8049eee29180> ontolex:writtenRep "die Änderungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ausnahme/form/04c9d112-28b2-46eb-837a-e307c18c841d> ontolex:writtenRep "die Ausnahmen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Mehrheit/form/01ffd7e5-05d0-4927-acee-dbff269bcf16> ontolex:writtenRep "die Mehrheiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Leitung/form/28a087db-a26d-4417-8819-3c985cfa977f> ontolex:writtenRep "die Leitungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Frieden/form/0162886a-e3d2-475e-99c2-c3d6796d132b> ontolex:writtenRep "die Frieden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Umgang/form/041828b9-859d-4e72-a78c-e79c44f7df91> ontolex:writtenRep "die Umgänge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Rat/form/0c87021c-dd99-4cdf-9084-7ed8d2975085> ontolex:writtenRep "die Räte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gewalt/form/18506f0b-e3e5-43d1-90ea-04e9bcf25f45> ontolex:writtenRep "die Gewalten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aktie/form/17908387-b5a0-4abd-beec-5dcd78aae3c5> ontolex:writtenRep "die Aktien"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Club/form/3c109a35-e603-483c-8a6e-ce24dead324c> ontolex:writtenRep "die Clubs"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bad/form/1a9affcd-ce48-408e-a1f6-59a833167bcb> ontolex:writtenRep "die Bäder"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Messe/form/0895a9a6-46f1-431b-b558-36280bed4300> ontolex:writtenRep "die Messen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Auswirkung/form/2a8acc35-4221-4cfb-a1d6-1998d9960c7a> ontolex:writtenRep "die Auswirkungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Koalition/form/51195513-153d-42c0-87ea-3639abf6e509> ontolex:writtenRep "die Koalitionen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Einf_hrung/form/09c54b16-3855-4124-9f2f-25f45763d03c> ontolex:writtenRep "die Einführungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Spieler/form/5368fbe2-a7e7-43c7-986e-913606298f77> ontolex:writtenRep "die Spieler"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Parlament/form/12e370a8-91e6-444a-9729-f615713d1af9> ontolex:writtenRep "die Parlamente"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Suche/form/25521c4a-fa89-4057-824b-f3bb93b1e0d6> ontolex:writtenRep "die Suchen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Arbeitgeber/form/2823754d-2c4a-4c70-9a6a-c409d33225ec> ontolex:writtenRep "die Arbeitgeber"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gegner/form/06724b24-808c-4024-9637-12e3577d1a4b> ontolex:writtenRep "die Gegner"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Adresse/form/2198764d-2640-46bc-ae9c-429937e92257> ontolex:writtenRep "die Adressen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kino/form/2faf6988-4d58-4675-ab7e-a8e95a602004> ontolex:writtenRep "die Kinos"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Streit/form/1ae40b2a-fd38-42a1-843e-ddd1f7165086> ontolex:writtenRep "die Streite"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Start/form/09780325-e75f-471f-a42e-7b6cf2a308f9> ontolex:writtenRep "die Starts"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Widerstand/form/381b1962-4ce5-4bfa-974f-d47161d25c02> ontolex:writtenRep "die Widerstände"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verkehr/form/1230c29d-9c76-494f-85bb-86bd938a8d36> ontolex:writtenRep "die Verkehre"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bewusstsein/form/386ecb56-8de1-4673-a158-99858195b4b2> ontolex:writtenRep "die Bewusstseine"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Park/form/2f8027da-a8a3-415d-912c-2cb716385dcc> ontolex:writtenRep "die Pärke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bedarf/form/1ce87fcf-820e-4a15-a3f9-58b83770c2b1> ontolex:writtenRep "die Bedarfe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gesch_ftsf_hrer/form/18df820b-ed33-4636-bea1-b7ca84bd6e16> ontolex:writtenRep "die Geschäftsführer"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ruf/form/17e5e5e8-f643-4e7b-83b3-9c2100a1d29e> ontolex:writtenRep "die Rufe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Initiative/form/80481a90-84b6-45da-8a92-121425d2cd2b> ontolex:writtenRep "die Initiativen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anwalt/form/00b3be63-7e11-4dac-bd03-061b59553872> ontolex:writtenRep "die Anwälte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Charakter/form/3714d400-7f66-4dd4-b7c7-200453917516> ontolex:writtenRep "die Charaktere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bewohner/form/4b6fdc66-186e-4e17-b895-4b2cae7d007f> ontolex:writtenRep "die Bewohner"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sitzung/form/1dd0ba64-823c-4596-89a4-bc272f54c919> ontolex:writtenRep "die Sitzungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Angeh_rige/form/52a7184d-cfd1-4491-a7c0-6143cbcf8cdd> ontolex:writtenRep "die Angehörigen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fraktion/form/04315fca-a9c3-4a54-83a8-29720b035c44> ontolex:writtenRep "die Fraktionen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/H_ndler/form/007849bb-8ac3-4967-ad57-83e3f16533cf> ontolex:writtenRep "die Händler"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Training/form/102cddfa-1271-49d5-b427-0435a93a64de> ontolex:writtenRep "die Trainings"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Motiv/form/07ce6b44-326e-4c8a-8877-8934d21df613> ontolex:writtenRep "die Motive"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Umsetzung/form/09dc1853-3018-4625-8c15-a90014684fca> ontolex:writtenRep "die Umsetzungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Republik/form/0dd43bb7-847e-46e2-ab06-cff9a4ef6f89> ontolex:writtenRep "die Republiken"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Vortrag/form/13b25d47-ad94-41c7-8f26-0a0cf7f5d2bc> ontolex:writtenRep "die Vorträge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Nachfolger/form/1ff98de3-3b7e-4337-806b-c60b84653356> ontolex:writtenRep "die Nachfolger"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Protest/form/1fbe4a81-2435-4092-8564-5e1ecbbf13d8> ontolex:writtenRep "die Proteste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sieger/form/119ce34a-7335-44f2-bb4e-5ea57b13fb41> ontolex:writtenRep "die Sieger"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Turnier/form/0dbc590a-9bda-4e29-b6a5-f114c778862f> ontolex:writtenRep "die Turniere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tipp/form/16e10519-1e7c-4888-9d7c-0e0cebd9b2a6> ontolex:writtenRep "die Tipps"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Lohn/form/1d5bedb4-c2ba-4fae-9f37-666930260eb7> ontolex:writtenRep "die Löhne"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Landkreis/form/4929763e-b1c3-46f0-9cc7-0f935e8261f1> ontolex:writtenRep "die Landkreise"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tanz/form/33e3a9ce-a356-4b66-aa80-17ca7673f281> ontolex:writtenRep "die Tänze"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gemeinderat/form/088bfb59-3420-451f-913b-a7eeb9239327> ontolex:writtenRep "die Gemeinderäte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Spende/form/0333f7ea-f9c5-4d11-966b-0a296ab2b282> ontolex:writtenRep "die Spenden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Blog/form/0ba3567b-4d75-43e6-bf8c-c01c55ee3947> ontolex:writtenRep "die Blogs"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Nein/form/0c68b53e-864f-4352-a6c0-f062d80d0a97> ontolex:writtenRep "die Neins"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aufzug/form/01e8ac96-9479-4696-9726-43b4050a29bb> ontolex:writtenRep "die Aufzüge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wolf/form/00b98594-e356-49dd-a990-108091ce89d9> ontolex:writtenRep "die Wolfe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Finale/form/0aa705b0-42f0-4b1e-a081-36d7bbe7378f> ontolex:writtenRep "die Finali"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Theorie/form/196bbe35-b8dc-48b8-abcd-c96ec93a472a> ontolex:writtenRep "die Theorien"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anschlag/form/0ae7bb59-cee7-46f7-ac19-f0795b78b7a5> ontolex:writtenRep "die Anschläge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Analyse/form/62ae4c1f-5e4f-42f7-b4f9-f6bafa521cc6> ontolex:writtenRep "die Analysen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gesellschafter/form/3d1f71d8-6730-415a-9f5e-8f4ccc4ae45c> ontolex:writtenRep "die Gesellschafter"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Eigenschaft/form/8288ddbf-5736-44eb-9f0c-6791fd06ac23> ontolex:writtenRep "die Eigenschaften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Flugzeug/form/546d2372-6eb6-4b6d-b051-00d0eab7a512> ontolex:writtenRep "die Flugzeuge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schatten/form/4a088c3d-f479-4e14-85f2-05517333956d> ontolex:writtenRep "die Schatten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fahrrad/form/006015ef-855d-42c8-8862-aa7f2baf45f7> ontolex:writtenRep "die Fahrräder"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bed_rfnis/form/11969068-ad7c-412e-bd5e-f4d011ea8ede> ontolex:writtenRep "die Bedürfnisse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Brust/form/240bf45c-84ab-403e-bfc5-7fb13230c79e> ontolex:writtenRep "die Brüste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/L_nge/form/2233cffd-e441-4e7b-8ae5-9e6abec8b05f> ontolex:writtenRep "die Längen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verwendung/form/3266f4b3-6faf-4c98-ae87-53770a5c59dc> ontolex:writtenRep "die Verwendungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schicht/form/00896998-5bfc-4210-b202-369d9bd3b3fc> ontolex:writtenRep "die Schichten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ablauf/form/0cea2fff-8f9e-4cf8-945c-81201c6660c4> ontolex:writtenRep "die Abläufe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Nachteil/form/051d11e7-1167-4062-be93-e82b111758a1> ontolex:writtenRep "die Nachteile"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Management/form/00f394a2-83cf-49ec-bef8-cef6571d4d30> ontolex:writtenRep "die Managements"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verdacht/form/0a3e90cf-352f-42f1-9480-76e7ae62d7f0> ontolex:writtenRep "die Verdächte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Armee/form/4d66fc73-ef1c-4837-92f0-389b270d9413> ontolex:writtenRep "die Armeen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Knie/form/33c918a3-b5cc-4e7b-afa9-b796f411fd8e> ontolex:writtenRep "die Knie"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schrift/form/09528fd1-fdaf-42f6-971a-d394c924ed08> ontolex:writtenRep "die Schriften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Organismus/form/03b3145e-a231-4199-87a6-62f7019abf8c> ontolex:writtenRep "die Organismen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Besch_ftigung/form/25c04a53-b77e-4c5b-8400-b7137c867f12> ontolex:writtenRep "die Beschäftigungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Nutzen/form/f2ea24df-1510-47a2-bc55-85367b2763c2> ontolex:writtenRep "die Nutzen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Vordergrund/form/21540da2-991f-4dab-9785-2abb0dd717a6> ontolex:writtenRep "die Vordergründe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Oberfl_che/form/2c0c57ff-6c86-4a9a-ae93-e086c958c6df> ontolex:writtenRep "die Oberflächen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Erlebnis/form/572c2188-0b9e-4658-95fa-2382b628efc1> ontolex:writtenRep "die Erlebnisse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verlauf/form/0c338dcb-9664-432d-a365-42385cb8c6dc> ontolex:writtenRep "die Verläufe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schnee/form/0a168c37-6c1e-4310-9cb8-dff5bef2a280> ontolex:writtenRep "die Schnee"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tr_ne/form/584a8175-16a1-45eb-910f-f146e79b1b0d> ontolex:writtenRep "die Tränen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Existenz/form/0a839d1d-ae30-4aea-8994-3ee15ee2982f> ontolex:writtenRep "die Existenzen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Blume/form/0921d99a-e59b-43dc-984f-5d8f46248a29> ontolex:writtenRep "die Blumen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Grundgesetz/form/218b8802-f3fa-47a3-a126-07c97a2a0b54> ontolex:writtenRep "die Grundgesetze"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Immunsystem/form/0abc4990-cca6-436c-b814-8645b9c4acde> ontolex:writtenRep "die Immunsysteme"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schl_ssel/form/3f931b4f-dd79-4f20-bea8-207501783b04> ontolex:writtenRep "die Schlüssel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wahrnehmung/form/490dca52-cf7e-4aba-91d5-19595dc95144> ontolex:writtenRep "die Wahrnehmungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Dienstleistung/form/0402c086-22a1-4e09-94f5-d4670dd9baee> ontolex:writtenRep "die Dienstleistungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Konto/form/0ddc99d5-885c-4d21-8dcf-d5a7e2b24ae4> ontolex:writtenRep "die Konten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zahlung/form/27478aa2-b09e-40fe-9ee7-000347ddb0b6> ontolex:writtenRep "die Zahlungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verwandte/form/06d490a5-e66e-49ed-84af-e272dde51cd4> ontolex:writtenRep "die Verwandten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Eingriff/form/01d84953-d0be-414f-a555-ed00b33d6bb9> ontolex:writtenRep "die Eingriffe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zeitschrift/form/012621cd-2261-45c3-9247-997185b1f30d> ontolex:writtenRep "die Zeitschriften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zeile/form/20a602c7-5fec-4b84-a9d0-39835f070b31> ontolex:writtenRep "die Zeilen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Flug/form/0465dc02-6809-498e-b066-f31a5024eba7> ontolex:writtenRep "die Flüge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ger_usch/form/07832cd0-66ee-4f74-a025-87a606e0df9b> ontolex:writtenRep "die Geräusche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Medikament/form/15a0d7f6-c347-4958-a8e1-488727cd26b6> ontolex:writtenRep "die Medikamente"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Erh_hung/form/00ec10e6-8ad3-49bd-8246-43304268c4ec> ontolex:writtenRep "die Erhöhungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gen/form/05a99692-7bac-482b-86be-47e47866ceb4> ontolex:writtenRep "die Gene"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Mord/form/138d8377-5a01-4426-b957-a9704f9d2794> ontolex:writtenRep "die Morde"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stock/form/299543d6-0cad-42cd-931c-07a7860614bf> ontolex:writtenRep "die Stöcker"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Dutzend/form/11eeaf4a-dc51-4fa6-97e8-6232e70c92cb> ontolex:writtenRep "die Dutzende"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kleidung/form/00c14bbe-f775-409d-80ba-14b8e9c3df43> ontolex:writtenRep "die Kleidungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kritiker/form/4cdb3383-61e0-4907-b821-f6b0f761b10f> ontolex:writtenRep "die Kritiker"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Premiere/form/0650d454-173d-415c-863d-6c9fd15625eb> ontolex:writtenRep "die Premieren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verbreitung/form/3709f446-cd21-4bc3-94d5-44be6d4c14d4> ontolex:writtenRep "die Verbreitungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Top/form/068d4130-9ce2-4435-a080-d75e5f3ee1d3> ontolex:writtenRep "die Tops"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Burg/form/1949dfee-b982-4a48-aa7f-e5bebd9107df> ontolex:writtenRep "die Bürge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aufl_sung/form/242ba357-daf6-48cd-859c-1ce003dd7756> ontolex:writtenRep "die Auflösungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gef_ngnis/form/8ac23962-0640-4467-8b82-9c48488c8ae3> ontolex:writtenRep "die Gefängnisse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ged_chtnis/form/0095e9a9-ac13-41b4-9815-e3bec677914f> ontolex:writtenRep "die Gedächtnisse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Oma/form/3cfaaaf7-90d2-4720-abba-dc1bf31f198a> ontolex:writtenRep "die Omas"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Skandal/form/0cc12c70-c7a7-481f-aac0-77095f404680> ontolex:writtenRep "die Skandale"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sehnsucht/form/1ee65791-dbcb-4226-b81b-cdec89721042> ontolex:writtenRep "die Sehnsüchte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wunde/form/622fb94c-56e3-446f-875c-b3464bcf86ab> ontolex:writtenRep "die Wunden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Befehl/form/03051799-d5b4-4e10-9f83-61abbf2a5a81> ontolex:writtenRep "die Befehle"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anpassung/form/3d3ba30c-7543-4752-8e5f-b812b5972ad9> ontolex:writtenRep "die Anpassungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anblick/form/b1777717-b205-4b40-b8e3-ed5e3045500b> ontolex:writtenRep "die Anblicke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kapit_n/form/09a212b9-45cc-486d-bff9-3d07175cc5e4> ontolex:writtenRep "die Kapitäne"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gramm/form/149d6f3f-8994-43be-9857-7c777b9e24ee> ontolex:writtenRep "die Gramme"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kiste/form/1da55a1e-e1f1-450a-ac23-0f5a2176fc3b> ontolex:writtenRep "die Kisten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/M_bel/form/0fd25889-d092-4aa4-bfa8-adfa887828d7> ontolex:writtenRep "die Möbeln"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Posten/form/11cd9916-f0f1-43af-819f-9c6526e4f281> ontolex:writtenRep "die Posten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Status/form/19a40451-244f-4bc4-8a88-1bce11390010> ontolex:writtenRep "die Status"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Staub/form/0064799a-de33-4b36-9001-c7803dcaa082> ontolex:writtenRep "die Staube"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Unsicherheit/form/0f97d26c-39bb-4f07-b632-6a40df942d7d> ontolex:writtenRep "die Unsicherheiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Diagnose/form/11bd2b9f-59a5-4bdc-be79-b18708d044b4> ontolex:writtenRep "die Diagnosen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fl_ssigkeit/form/1d612792-63be-4ab9-96a3-8bcd5050716d> ontolex:writtenRep "die Flüssigkeiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/R_cksicht/form/30dd1092-4d9c-4baf-aef8-f11ca877d484> ontolex:writtenRep "die Rücksichten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Rhythmus/form/a75aba0c-8b79-4d07-9e1d-dfa49d332792> ontolex:writtenRep "die Rhythmen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bem_hung/form/0a442d83-7fff-40ad-b9e8-cec08f8eb846> ontolex:writtenRep "die Bemühungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Konsument/form/017de11c-9b85-45c1-8db5-7f57b458c410> ontolex:writtenRep "die Konsumenten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kohle/form/0b0df1d5-8bd8-474b-9641-fd17fed51d8b> ontolex:writtenRep "Kohles"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sack/form/02326836-8a2d-4f7f-af08-496a48bc1b4f> ontolex:writtenRep "die Sacks"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Teufel/form/02f37996-a9de-4689-b4d6-20d9e647ac35> ontolex:writtenRep "die Teufel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Versammlung/form/29e17a40-0881-44a1-8a0b-df00282bc28d> ontolex:writtenRep "die Versammlungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ausflug/form/105e6a0c-d389-41ca-b70d-3c4bd2bfeda8> ontolex:writtenRep "die Ausflüge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ausstattung/form/01b6f6ad-076a-452e-bd8a-d1ece2a1a0e8> ontolex:writtenRep "die Ausstattungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anweisung/form/3a6795a0-47e7-4ed3-b7d8-ede1b95c5305> ontolex:writtenRep "die Anweisungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Architektur/form/13b499c6-62e1-4531-8523-34ef7c52005d> ontolex:writtenRep "die Architekturen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anzug/form/0c316072-075e-4810-b2ea-621b4ecfb8b2> ontolex:writtenRep "die Anzüge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Butter/form/1657b72b-da55-43d6-80ce-a576c920faa4> ontolex:writtenRep "die Butters"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Intelligenz/form/0fbc4bdd-624b-4da7-b021-6197b57d782b> ontolex:writtenRep "die Intelligenzen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Leidenschaft/form/05d976ce-121b-4c3d-b22b-0c91d9348939> ontolex:writtenRep "die Leidenschaften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Spektrum/form/05e93c50-062f-438e-a287-bb39efb4baa0> ontolex:writtenRep "die Spektra"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aufregung/form/2006285f-f02f-4662-beea-3be48e8689b1> ontolex:writtenRep "die Aufregungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Einbruch/form/08ceb193-8339-41a1-a10f-df0e32d96fc4> ontolex:writtenRep "die Einbrüche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Getr_nk/form/1ebcc8b8-12a4-4f2c-9a2a-a9b4dfc7b1a6> ontolex:writtenRep "die Getränke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gutachten/form/0faccf5a-a95c-4d00-8629-83a169ee7ace> ontolex:writtenRep "die Gutachten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Magazin/form/2db7a7b4-1689-4204-bbf3-3fd164f4dab0> ontolex:writtenRep "die Magazine"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Darlehen/form/0a4a3962-d514-4c5e-babf-362b5cb1dcd6> ontolex:writtenRep "die Darlehen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Erhaltung/form/011a25d5-3a79-463d-98b8-894f1390e697> ontolex:writtenRep "die Erhaltungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gerechtigkeit/form/34fd0588-997c-4b3c-a1fc-16b461291b19> ontolex:writtenRep "die Gerechtigkeiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Indianer/form/0c12776d-a3b3-4795-a991-2c2ac4cf54ba> ontolex:writtenRep "die Indianer"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Jagd/form/0a1ddade-c12b-445c-a92d-82ca35b7443c> ontolex:writtenRep "die Jagden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Lampe/form/044fc3bb-7795-4304-ae50-4c43ad28ff73> ontolex:writtenRep "die Lampen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Reichweite/form/01952654-5e32-44ec-b1a7-e3f315027e95> ontolex:writtenRep "die Reichweiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tablette/form/3134ee0d-5d7a-469c-a7d6-9b71c1de2ab2> ontolex:writtenRep "die Tabletten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Vorg_nger/form/307d6802-258e-4a91-aa6f-12a057b184a4> ontolex:writtenRep "die Vorgänger"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Akte/form/0a2f6029-12c8-4c1c-981c-02b6fd8e6b6a> ontolex:writtenRep "die Akten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Feier/form/09c11a40-265f-438b-9950-601d36fd190f> ontolex:writtenRep "die Feiern"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Philosoph/form/1d05c92e-d635-4141-8b69-9999aa7c6194> ontolex:writtenRep "die Philosophen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Nahrungsmittel/form/147ef3b2-7c7e-4bdf-b446-69561c6266dd> ontolex:writtenRep "die Nahrungsmittel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Strahl/form/024d57c9-ca22-4f88-8747-47dfcc267a99> ontolex:writtenRep "die Strahlen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gratulation/form/575b6c87-c645-421e-88cf-b40b152b0fa9> ontolex:writtenRep "die Gratulationen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Anruf/form/0ce610bf-5f0f-43e0-9a88-213df72ed7fc> ontolex:writtenRep "die Anrufe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Werktag/form/5aa9116e-1304-4451-94e2-18bdc7573626> ontolex:writtenRep "die Werktage"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tagesordnung/form/1debcacb-3b48-482b-bbbd-5cfeca77f86e> ontolex:writtenRep "die Tagesordnungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Portr_t/form/05edfaea-f869-4adf-8490-e4f1d32be7f6> ontolex:writtenRep "die Porträte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Insekt/form/01f59d23-964e-447e-af64-2290190576c4> ontolex:writtenRep "die Insekten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Lehrstelle/form/c5bf03d0-af67-4d4e-989d-3357b9349cba> ontolex:writtenRep "die Lehrstellen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schl_gerei/form/059c30ea-0f88-4a9e-ae64-0d922e4a9c56> ontolex:writtenRep "die Schlägereien"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zwilling/form/06ba30ac-381d-4675-88ab-532dc258b609> ontolex:writtenRep "Zwillings"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Rettung/form/00d3e159-3104-47f4-b804-8bbbf2c6981d> ontolex:writtenRep "die Rettungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/_berschrift/form/01f7bdc9-78ac-4be4-8699-c29df051b580> ontolex:writtenRep "die Überschriften"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Cent/form/07a5135d-ca5d-4c8e-974a-1a20e806ec9d> ontolex:writtenRep "die Cents"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stier/form/0bcfceb9-f4e3-49e2-8cc7-9c479e20cf5d> ontolex:writtenRep "die Stiere"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Absender/form/3ba066fc-02ae-4cbc-87d0-5dc3686d80a2> ontolex:writtenRep "die Absender"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kaufhaus/form/118d6ff7-e679-49ca-be69-2396466f0724> ontolex:writtenRep "die Kaufhäuser"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hausaufgabe/form/05459df1-43ac-4079-9a44-218379fd8f8b> ontolex:writtenRep "die Hausaufgaben"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Knopf/form/0eb1195e-91e4-4706-9068-f631a8692545> ontolex:writtenRep "die Knöpfe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hausfrau/form/108b570d-696c-4888-a2be-75f91a0c96de> ontolex:writtenRep "die Hausfrauen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Becher/form/00dcd5bc-33b8-43d1-a699-6c6149124b3c> ontolex:writtenRep "die Becher"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wohnort/form/11768dd1-3c24-4847-9165-abf966f524ce> ontolex:writtenRep "die Wohnorte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Pizza/form/08a1d4fa-10a4-4a09-bc72-dd9d86324469> ontolex:writtenRep "die Pizzen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Unterkunft/form/3cc29835-e193-4fd0-9737-6cfca8bb9083> ontolex:writtenRep "die Unterkünfte"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kriminalpolizei/form/0a52eab2-4be2-4dd9-b8d0-dd2b8aa45ea6> ontolex:writtenRep "die Kriminalpolizeien"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Reiseb_ro/form/0a533832-e6f7-4977-b433-5bffcfd21f79> ontolex:writtenRep "die Reisebüros"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schale/form/0b032e06-a7e3-4485-b6ca-01144ea0cde7> ontolex:writtenRep "die Schalen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Einfahrt/form/ac0abd35-c321-4690-84bb-9b2edf90c160> ontolex:writtenRep "die Einfahrten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ehemann/form/0c81e872-3f9b-476c-8c40-85b2815d029c> ontolex:writtenRep "die Ehemänner"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Couch/form/009306e9-eac2-4bd7-87cb-f88017767128> ontolex:writtenRep "die Couches"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Golf/form/066399d1-4f2b-4446-a0f8-18d168bd0421> ontolex:writtenRep "die Golfe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bauernhof/form/57fdce23-c5df-4d8d-a3ee-48ddff559912> ontolex:writtenRep "die Bauernhöfe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kommissar/form/38557d48-447f-47d4-9651-08ff752cfd86> ontolex:writtenRep "die Kommissare"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Festplatte/form/4b34451c-5eff-4c89-b157-f166f67b9140> ontolex:writtenRep "die Festplatten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ast/form/1822bec5-24b6-435a-9a5f-e7f381b818e4> ontolex:writtenRep "die Äste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Imbiss/form/06651932-69cd-4006-ac80-da8885d1bb01> ontolex:writtenRep "die Imbisse"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Affe/form/440154ba-31ab-47f4-98b9-81dc9b18f63f> ontolex:writtenRep "die Affen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Men_/form/0b7f7417-b5f9-4296-b1a6-978e7de97d54> ontolex:writtenRep "die Menüs"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kraut/form/0358ca41-af88-43b9-b546-90fe42b4ba2a> ontolex:writtenRep "die Krauts"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Puppe/form/cb872e0b-7dbc-4229-9b9a-d993150f9aab> ontolex:writtenRep "die Puppen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gl_ckwunsch/form/20521765-5213-4400-a8a6-94f4062ad0d8> ontolex:writtenRep "die Glückwünsche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verpackung/form/2bf03953-6fa1-44b3-aae8-38b4f54c6376> ontolex:writtenRep "die Verpackungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Betr_ger/form/039252ff-2df1-4f28-858c-28bd5a08b270> ontolex:writtenRep "die Betrüger"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Ampel/form/2653f2ae-b639-4245-981c-e4ffcacae765> ontolex:writtenRep "die Ampeln"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schere/form/0414455f-9a14-444a-a274-692c6b8a16f4> ontolex:writtenRep "die Scheren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Frisur/form/2a23afb1-4826-451a-bea7-bc50b8a36a9b> ontolex:writtenRep "die Frisuren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Rasen/form/1f0fc703-03fb-4dca-a3ac-2c3b5c2e285d> ontolex:writtenRep "die Rasen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Beleg/form/044a9346-7072-4219-939d-685142f9fb05> ontolex:writtenRep "die Belege"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Klick/form/01791d08-511a-433f-96de-a71d18d4620b> ontolex:writtenRep "die Klicks"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Teilzeit/form/280f3828-77c4-4eb5-a040-9475612336da> ontolex:writtenRep "die Teilzeiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Warnung/form/265ce10f-b908-4588-a7c7-112a74ebe49a> ontolex:writtenRep "die Warnungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Buffet/form/75dd7e12-e1b2-4fe7-907a-066258dc17a1> ontolex:writtenRep "die Buffets"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schmetterling/form/2053e8d5-7d73-40ce-a005-a636f2f9db07> ontolex:writtenRep "die Schmetterlinge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hausmeister/form/064aae8c-0664-452d-97d6-6e4f13094b49> ontolex:writtenRep "die Hausmeister"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Jeans/form/03866c59-d616-4632-b334-4eedf0565885> ontolex:writtenRep "die Jeans"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sonderpreis/form/26f78fcf-a53f-47c1-89b9-5742fe858b19> ontolex:writtenRep "die Sonderpreise"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Humor/form/0f69bb43-ae2e-4f9b-8709-c37871bc4fce> ontolex:writtenRep "die Humores"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/S_Bahn/form/0d738896-a850-47ca-882c-4bd33e8d9bae> ontolex:writtenRep "die S-Bahnen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wurst/form/1bab2c23-dc6e-4a2b-86ff-6b5541b2e687> ontolex:writtenRep "die Würste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fuchs/form/08691446-4638-4e76-8444-62748bd80f82> ontolex:writtenRep "Fuchsens"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kopfschmerz/form/306ebf7e-4fb5-4231-8771-babba4d052f7> ontolex:writtenRep "die Kopfschmerzen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Rakete/form/3a93d607-f0b0-4264-b7e2-cdbde1b3b2e7> ontolex:writtenRep "die Raketen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Besprechung/form/1450f580-1877-4742-a61e-7723d9c5e268> ontolex:writtenRep "die Besprechungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Haltestelle/form/0707b2f2-d9d4-4762-accc-cf7eafc97ba2> ontolex:writtenRep "die Haltestellen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gew_rz/form/027c1975-332e-4d7f-8683-993401e93cfa> ontolex:writtenRep "die Gewürze"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Beerdigung/form/1dca3ec5-f814-4af5-9a19-48d2c0fa98ee> ontolex:writtenRep "die Beerdigungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Tank/form/128a9bfb-9c27-458c-a2f9-6d11a4e59ffb> ontolex:writtenRep "die Tanks"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Versehen/form/12dae37c-2f14-4a26-b071-033709c1490d> ontolex:writtenRep "die Versehen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/W_rde/form/17c49e67-dd8f-4c29-b2a1-705f1a0060de> ontolex:writtenRep "die Würden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Flagge/form/18de7dbd-7f48-4b75-a196-6cafbdc55507> ontolex:writtenRep "die Flaggen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Demonstrant/form/02d65e08-daf0-4b72-98b5-5b76bd34e7f9> ontolex:writtenRep "die Demonstranten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hochhaus/form/05e5872d-2f54-45b4-ba50-01ed62fa9ea9> ontolex:writtenRep "die Hochhäuser"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Limit/form/1f46d594-8fb8-4ecd-9b23-d9b4d14edda3> ontolex:writtenRep "die Limits"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Dreharbeit/form/04513b64-cd4e-470e-81f5-c08e0bf24e6d> ontolex:writtenRep "die Dreharbeiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Staatsregierung/form/09578ff8-e7a1-41c4-b6c8-5b8eb6a938b2> ontolex:writtenRep "die Staatsregierungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Honorar/form/43296cbe-f7d6-4ec2-81a1-063ce13c4a44> ontolex:writtenRep "die Honorare"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Irrtum/form/325d5fb3-789c-44c0-a153-539a14c09636> ontolex:writtenRep "die Irrtümer"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Bucht/form/1099a2c8-e3c2-49ca-b7fb-3b5c04eeb011> ontolex:writtenRep "die Buchten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gelenk/form/1a916492-4de2-4321-8574-6351c17e8d06> ontolex:writtenRep "die Gelenke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Erdbeben/form/06c1fb0c-2d3c-40f6-bb80-8f1a6f300d7c> ontolex:writtenRep "die Erdbeben"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zuversicht/form/072a8133-61ac-4109-8e01-d4cf368bb914> ontolex:writtenRep "die Zuversichten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Beschuldigte/form/09aa201f-19f0-44a7-8d13-19131f4f3ee1> ontolex:writtenRep "keine Beschuldigten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Kratzer/form/4126e6e9-13ed-41a3-bc5a-7859abc7cea6> ontolex:writtenRep "die Kratzer"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zyklus/form/12f5bb19-dc10-4d26-83de-28b8ea4882a7> ontolex:writtenRep "die Zyklen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stadtteil/form/22625062-6d67-45c1-908f-a3b87cda7a4a> ontolex:writtenRep "die Stadtteile"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Filiale/form/2e56870c-525f-4ca3-be00-541db4634635> ontolex:writtenRep "die Filialen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Steuererkl_rung/form/14cbcd9a-969c-4d22-aaaf-881504a9872f> ontolex:writtenRep "die Steuererklärungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Entf_hrung/form/5e932d46-9262-4184-94fd-c0ea723401f5> ontolex:writtenRep "die Entführungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Innenraum/form/17cd2f1e-5cee-4ee7-bf92-ee528789963c> ontolex:writtenRep "die Innenräume"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/K_rperverletzung/form/4204c2c3-99c8-4151-8cc5-f12370c94c36> ontolex:writtenRep "die Körperverletzungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Handschuh/form/025e3528-4a7c-4782-8d2c-025721403401> ontolex:writtenRep "die Handschuhe"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gef__/form/2dc569c0-9075-482f-a385-65bca059dd03> ontolex:writtenRep "die Gefäße"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Staubsauger/form/4493e436-44f0-470a-b0e1-323c400914fd> ontolex:writtenRep "die Staubsauger"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Absturz/form/13b90c79-4cdc-4f8c-b473-d0e91304442a> ontolex:writtenRep "die Abstürze"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Liebling/form/0e4e7380-a0db-40b6-84ca-00968f1310c8> ontolex:writtenRep "die Lieblinge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Hai/form/31436173-ed61-45db-94f1-fc71f8c77923> ontolex:writtenRep "die Haie"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Deb_t/form/0016d6ee-ce26-4a98-b038-b71280d66ee9> ontolex:writtenRep "die Debüts"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Huhn/form/20575d63-3497-400a-a574-411643405ea4> ontolex:writtenRep "die Hühner"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Legende/form/265e6449-c6ae-4e93-80e6-f613cf131820> ontolex:writtenRep "die Legenden"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Streich/form/0a5a13b4-8966-4c7b-8000-e9c554403f7c> ontolex:writtenRep "die Streiche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Niederschlag/form/0b9862e6-da9f-41ec-8676-c8bc65072c3a> ontolex:writtenRep "die Niederschläge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Packung/form/06d389f7-d8e1-4712-bb2d-bae5857eeabe> ontolex:writtenRep "die Packungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Quote/form/1cedbb7b-ac21-462e-8dba-0816621df729> ontolex:writtenRep "die Quoten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Gebirge/form/245c723f-96b1-4f58-bc7e-2776d8034547> ontolex:writtenRep "die Gebirge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Vermieterin/form/3370ea29-ca31-412a-be95-ec57d1d28a33> ontolex:writtenRep "die Vermieterinnen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Eule/form/05c4140f-42fd-4b04-b4da-91546ed896b4> ontolex:writtenRep "die Eulen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aggressivit_t/form/1b728971-cfb9-42c3-a6a2-4b84ef1d7e4a> ontolex:writtenRep "die Aggressivitäten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Sucht/form/2f4b270c-ccbf-444f-89b4-c774d6e5fb32> ontolex:writtenRep "die Suchten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Krokodil/form/06af8210-8ee0-4352-ad21-3bb04ad0ad8e> ontolex:writtenRep "die Krokodile"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Skorpion/form/062e95e5-bf06-46ea-9892-a81c6fd1d6ce> ontolex:writtenRep "die Skorpione"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Essig/form/31b9a529-39cf-48ce-89a6-0844534b5a2f> ontolex:writtenRep "die Essige"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Quittung/form/465d52ea-0ff2-43b2-9770-587a97a714d4> ontolex:writtenRep "die Quittungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Geldautomat/form/110380a4-c440-44c6-9f4c-6db8c0e600a2> ontolex:writtenRep "die Geldautomaten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Korridor/form/00578290-e3be-40b8-8d07-d389bdd56ab5> ontolex:writtenRep "die Korridore"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Muttersprache/form/0809d9c4-7897-495e-bc9b-5c5dee503af5> ontolex:writtenRep "die Muttersprachen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fundsache/form/0ac163d4-9d90-4ea3-906d-5cfe97dd9bee> ontolex:writtenRep "die Fundsachen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Umtausch/form/0703df8b-691b-47c5-ae3b-43512eaa69ee> ontolex:writtenRep "die Umtausche"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fahrkarte/form/1e0452be-a055-457a-b968-405fe0d1d9c2> ontolex:writtenRep "die Fahrkarten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Laufwerk/form/1900f575-ef97-4c85-89dd-1d6c2442de5e> ontolex:writtenRep "die Laufwerke"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Aprikose/form/cdb38d93-6a56-4d52-ae7f-1020ddaacd5c> ontolex:writtenRep "die Aprikosen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/W_rterbuch/form/3cc983a5-be1d-466f-b1f5-7feedb23c16f> ontolex:writtenRep "die Wörterbücher"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/M_lltonne/form/0bf02a21-52a5-4150-ae88-99ef1cede6da> ontolex:writtenRep "die Mülltonnen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Familienname/form/47af9344-678e-4809-bbd7-e4974430b82e> ontolex:writtenRep "die Familiennamen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Prost/form/06b698da-2bbb-45d5-b779-b771764c9280> ontolex:writtenRep "die Proste"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Verschwendung/form/0b262c92-31d9-42e8-ad3c-90ad1f3a091f> ontolex:writtenRep "die Verschwendungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Heiratsantrag/form/2b193a15-c834-42bc-9785-3b61468652d3> ontolex:writtenRep "die Heiratsanträge"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/B_rste/form/1dd10320-b008-46b8-8dd9-453c8e42b44e> ontolex:writtenRep "die Bürsten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Streber/form/261099ab-5003-417e-b164-89860bd63f8d> ontolex:writtenRep "die Streber"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Cousine/form/2d28c396-57b6-44d5-96c2-0b02e900b95f> ontolex:writtenRep "die Cousinen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Stewardess/form/0af675ad-fa7f-49ff-9d2d-9bf1eda8ad2b> ontolex:writtenRep "die Stewardessen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Wassermelone/form/3a44233e-67f1-4dc6-9873-6e714f41e89d> ontolex:writtenRep "die Wassermelonen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Melone/form/2b880788-ec44-4ca3-b31e-ae95e94e4702> ontolex:writtenRep "die Melonen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Olive/form/10f16187-7f8c-4f38-9e67-467670f4ac41> ontolex:writtenRep "die Olive"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schachbrett/form/0b9d3eae-72b9-4122-b3a8-c873ef63cd9b> ontolex:writtenRep "die Schachbretter"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Lavendel/form/0879f053-0820-4feb-b709-b9bf35380839> ontolex:writtenRep "die Lavendel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Fahrstuhl/form/10429820-db10-49c2-b2ef-19560d04f35b> ontolex:writtenRep "die Fahrstühle"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Grammatik/form/32123f0f-d989-46e5-b0f2-b74a1348308f> ontolex:writtenRep "die Grammatiken"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Schallplatte/form/09759903-446b-4aba-a44a-e7232f197ac0> ontolex:writtenRep "die Schallplatten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zimmerschl_ssel/form/4d171e85-94d5-458f-84d2-e8c7254ec5ad> ontolex:writtenRep "die Zimmerschlüssel"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Zweitsprache/form/07fd5f50-edff-4f2b-b655-ac062b09f15b> ontolex:writtenRep "die Zweitsprachen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Eselsbr_cke/form/25722613-b17c-474f-8351-b1b7afcd7613> ontolex:writtenRep "die Eselsbrücken"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Korkenzieher/form/0d86ff4d-cca5-462c-9a9c-a3e897e9e59c> ontolex:writtenRep "die Korkenzieher"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/nahe/form/0010adb3-edbc-4cc4-8270-597dd690f132> ontolex:writtenRep "näheren"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/geografisch/form/02febce0-b80e-4bfb-80ba-5722f38ffae5> ontolex:writtenRep "geografischen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Universit_t/form/7d2986e4-406b-4749-baaf-a9e1e6e37c6c> ontolex:writtenRep "die Universitäten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Abbildung/form/02df9dfb-5f2c-45c5-941e-e5b4622e96df> ontolex:writtenRep "die Abbildungen"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Friseur/form/4b753ac6-7b36-44f0-9581-e5d04ffb8e0c> ontolex:writtenRep "die Friseure"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/Geografie/form/314f478e-ea2e-467c-80fb-e5cf516c949d> ontolex:writtenRep "die Geografien"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
+<http://ailand.org/zweite/form/02079074-93a7-47a4-8958-c723ddc78ba6> ontolex:writtenRep "zweiten"@de ;
+  olia:hasCase olia:Nominative ;
+  olia:hasNumber olia:Plural .
+
